@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 182216176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c5ec4163b7564c465818d08f9854a5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54f2928158d3a12285540a5a64219866
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/char_ethan.fbx
+Dependencies: []
