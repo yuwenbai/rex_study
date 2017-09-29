@@ -124,6 +124,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CarEditor.cs" />
+    <Compile Include="Assets\Editor\CreateAssets.cs" />
+    <Compile Include="Assets\Editor\TestAssetsInspector.cs" />
     <Compile Include="Assets\Editor\TestCreateController.cs" />
     <Compile Include="Assets\Editor\TexturePreprocessor.cs" />
   </ItemGroup>
@@ -133,7 +135,6 @@
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Resources\Shaders\OutLine1.shader" />
     <None Include="Assets\Resources\test.shader" />
-    <None Include="Assets\ZF\Resources\Fonts\Microsoft Yahei Face\Microsoft Yahei.fnt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
