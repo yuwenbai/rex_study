@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ZF/Resources/Fonts/Microsoft Yahei Face/Microsoft Yahei Face.unity
+  isLoaded: 1
+  isActive: 1
