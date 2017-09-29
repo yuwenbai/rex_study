@@ -1,0 +1,23 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Logger {
+
+
+    static public void debugNet(string format , params object[] vars){
+        QLoger.LOG(string.Format("[NET]{0}" , string.Format(format , vars)));
+    }
+
+    static public void error(string format , params object[] vars){
+        QLoger.ERROR(string.Format("[ERROR]{0}" , string.Format(format , vars)));
+    }
+
+    static public void log(string format , params object[] vars){
+        QLoger.LOG(string.Format("[LOG]{0}" , string.Format(format , vars)));
+    }
+
+    static public void logic(string format , params object[] vars){
+        QLoger.LOG(string.Format("[Logic]{0}" , string.Format(format , vars)));
+    }
+        
+}

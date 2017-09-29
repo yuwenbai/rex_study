@@ -1,0 +1,90 @@
+{
+    "group": "Setting",
+    "libs": [
+                "libz.tbd",
+                "libsqlite3.0.tbd",
+                "libc++.tbd",
+                "libiPhone-lib.a",
+                "libstdc++.6.0.9.tbd",
+                "libresolv.tbd"
+            ],
+    "frameworks": [
+                    "AudioToolbox.framework",
+                    "AddressBook.framework",
+                    "AVFoundation.framework",
+                    "CoreTelephony.framework",
+                    "CoreText.framework",
+                    "Contacts.framework",
+                    "CFNetwork.framework",
+                    "CoreGraphics.framework",
+                    "CoreLocation.framework",
+                    "CoreMedia.framework",
+                    "CoreMotion.framework",
+                    "CoreVideo.framework",
+                    "CoreFoundation.framework",
+                    "UserNotifications.framework",
+                    "Foundation.framework",
+                    "MediaPlayer.framework",
+                    "OpenAL.framework",
+                    "OpenGLES.framework",
+                    "UIKit.framework",
+                    "Metal.framework",
+                    "SystemConfiguration.framework",
+                    "QuartzCore.framework",
+                    "Security.framework",
+                    "MessageUI.framework",
+                    "StoreKit.framework",
+                    "JavaScriptcore.framework",
+                    "AdSupport.framework",
+                    "WebKit.framework",
+                    "ImageIO.framework",
+
+    			   ],
+    "headerpaths": [],
+    "files":   ["Setting/gaoMapAPI/AMapFoundationKit.framework","Setting/gaoMapAPI/AMapLocationKit.framework","Setting/setting.xcassets"],
+    "folders": [
+                "Editor/XUPort/Mods/Setting/LaunchScreen",
+                "Editor/XUPort/Mods/Setting/iOSAutoBuildScript",
+                "Editor/XUPort/Mods/Setting/shareIcons"
+                ],
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$","^.*.DS_Store"],
+    "linker_flags": ["-licucore","-ObjC","-Objc -all_load"],
+    "headerpaths":[
+                    "$(SRCROOT)",
+                    "$(SRCROOT)/Classes",
+                    "$(SRCROOT)/Classes/Native",
+                    "$(SRCROOT)/Libraries/bdwgc/include",
+                    "$(SRCROOT)/Libraries/libil2cpp/include"
+                    ],
+    "libraryPaths":[
+                    "$(inherited)",
+                    "$(SRCROOT)/Classes",
+                    "$(SRCROOT)",
+                    "$(SRCROOT)/Libraries",
+                    "$(SRCROOT)/Libraries/Plugins/GameLink/Plugins/iOS",
+                    ],
+    "compiler_flags":[],
+    "plist": {
+        "urltype" : [
+        {
+            "role": "Editor",
+            "name" : "weixin",
+            "schemes":["wx8820c0bb95c6fc96"]
+        },
+        {
+            "role": "Editor",
+            "name" : "com.slj.gamemj",
+            "schemes":["sljsappxac"]
+        },
+        {
+        "role": "Editor",
+        "schemes":["prefs"]
+        }
+        ],
+        "NSCameraUsageDescription": "需要您的同意才能使用相机",
+        "NSLocationWhenInUseUsageDescription": "需要您的同意才能使用定位",
+        "NSMicrophoneUsageDescription":"需要您的同意才能使用麦克风",
+        "queryschemes": ["wechat","weixin","prefs"],
+    },
+}
+

@@ -1,0 +1,8 @@
+KEY,desc(描述文字的使用位置),English,France
+Flag,旗帜,Flag-US,Flag-FR
+Language,语言,English,
+Info,信息,Localization example,
+Sound,音量,Sound,
+Music,音乐,Music,
+Desc,描述,English localization,
+Paragraph,段落,"This example shows how to ""implement"" localization using NGUI. In order to localize a widget, simply attach [000000]UILocalize[-] script to it. The script will localize the sprite if it's a [000000]UISprite[-], or the text if it's a [000000]UILabel[-]. If you want to localize something else, just implement the [000000]OnLocalize[-] function. Either way, the actual data is defined via text assets specified on the [000000]Localization[-] script which must be present in the scene.",
