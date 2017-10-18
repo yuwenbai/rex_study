@@ -11,6 +11,7 @@ public class TestCreateController : Editor {
     {
         //创建一个controller
         AnimatorController mAnimatorController = AnimatorController.CreateAnimatorControllerAtPath("Assets/Resources/Animator/ani.controller");
+        //mAnimatorController.layers
 
     }
     private static void AddStateTransition(string path, AnimatorControllerLayer layer)

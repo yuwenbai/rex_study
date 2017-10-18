@@ -33,7 +33,7 @@ public class InterestOperation
         return this.stragegy.CalculateTex(income);
     }
 }
-public class StrategyPattern : MonoBehaviour {
+public class StrategyPattern {
 
 
 	// Use this for initialization

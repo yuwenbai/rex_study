@@ -17,6 +17,7 @@ public class test : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+
         player =  ResourceLoader.Instance.Load<GameObject>("Mesh/Cube");
         Instantiate(player);
 
