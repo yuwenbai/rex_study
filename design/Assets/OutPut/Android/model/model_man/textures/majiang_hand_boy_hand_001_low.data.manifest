@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3918597172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cb0d304aa9c2fb0a93dab836a1fc7b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Model/Model_Man/Textures/Majiang_Hand_Boy_Hand_001_Low.png
+Dependencies: []

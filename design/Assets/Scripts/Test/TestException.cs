@@ -10,7 +10,6 @@ public class TestException : MonoBehaviour {
     void Awake()
     {
         Application.logMessageReceived += HandleException;
-        DontDestroyOnLoad(gameObject);
     }
 
     void HandleException(string condition, string stackTrace, LogType type)

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4254626245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57f6050ec437d5490ca38db6dc6d0d97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Mesh/Materials/Majiang_Hand_Boy_Fingernail_001_Low.mat
+Dependencies: []

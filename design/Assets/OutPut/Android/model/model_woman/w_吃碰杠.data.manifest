@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3137151079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43e6ed96374e1a18a27fb550913831ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 739d9aaf4fb258f88de15bba5b48e13c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Resources/Model/Model_WoMan/w_\u5403\u78B0\u6760.FBX"
+Dependencies: []

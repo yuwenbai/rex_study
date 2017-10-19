@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3379756740
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f2ae04b1c7229b84a7278773bb3fba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Model/Model_Man/Textures/Majiang_Hand_Boy_Fingernail_001_Low.png
+Dependencies: []

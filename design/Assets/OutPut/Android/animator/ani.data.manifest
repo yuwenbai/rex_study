@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1535292912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bd84d48f2d54e32b6738bd9fe5c51b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9c3d214d6e2cd55e94d312b753b3a1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animator/ani.controller
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_man/m_idle.data
+- "E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/w_\u5403\u78B0\u6760.data"

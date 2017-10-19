@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1774658875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe45e323f44d919a79ec2d995a4df80f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 739d9aaf4fb258f88de15bba5b48e13c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Resources/Game/Model/Model_WoMan/w_\u6293\u724C.FBX"
+Dependencies: []

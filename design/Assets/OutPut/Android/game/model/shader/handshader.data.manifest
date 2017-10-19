@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2631866376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5585b9d333966bea419793e4126318fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bd39743cce4d37940997ab4332a0cd7
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Game/Model/Shader/HandShader.shader
+Dependencies: []

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3597084425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d0b6c8fdd93bbc49ee4c120a110a793
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e56947ad00b5260223872805121622da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e3125b62d6dfbd43ba0d2878f62dcdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1816624484d9ae24980ef22947bdd958, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5dddbeacec8084d9f836945e7e34cf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd28bc590e2a57449a91072b68f33f8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c872d2ddea88d354aabbb93e64f06147, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Model/Prefab_Hand/Hand_WoMan.prefab
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/w_hand.data
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/hand_woman0.data
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/w_hand_z.data
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/materials/majiang_hand_girl_fingernail_001_low.data
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/model/model_woman/materials/majiang_hand_girl_hand_001_low.data

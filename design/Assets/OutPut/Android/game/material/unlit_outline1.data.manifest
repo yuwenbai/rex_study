@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1266028757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 176a5c48003a31e80409973b87a50bca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Game/Material/Unlit_OutLine1.mat
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/OutPut/Android/shaders/outline1.data
