@@ -20,7 +20,7 @@ public class TestLoadNewAB : MonoBehaviour
                 AssetBundleManifest manifest = (AssetBundleManifest)manifestBundle.LoadAsset("AssetBundleManifest");
                 Debug.Log(manifest == null);
                 //获取依赖文件列表;
-                string[] cubedepends = manifest.GetAllDependencies("cube.data");
+                string[] cubedepends = manifest.GetAllDependencies("hand_man.data");
 
                 Debug.Log(cubedepends.Length);
                 foreach (var item in cubedepends)
@@ -45,7 +45,7 @@ public class TestLoadNewAB : MonoBehaviour
                 if (cube != null)
                 {
                     Instantiate(cube);
-
+                    cubeBundle.Unload(false);
 
                     DateTime t2 = DateTime.Now;
 

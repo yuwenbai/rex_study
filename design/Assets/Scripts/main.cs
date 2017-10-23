@@ -55,6 +55,8 @@ public class main : MonoBehaviour {
         Debug.Log(utils.Output(_MjPaiKou));
         Debug.Log("test RefactionObject " + CommonTools.ReflactionObject(_MjPaiKou));
 
+        TestThreadLoom(10000);
+
         //Debug.Log("ffffff" + CommonTools.)
         //string str = MjPaiKou.ToString();
         //var type = MjPaiKou.GetType();
@@ -112,5 +114,23 @@ public class main : MonoBehaviour {
     // Update is called once per frame
     void Update () {
 		
+
 	}
+    void TestThreadLoom(int nTimes)
+    {
+        //Run the action on a new thread  
+        Loom.RunAsync(() =>
+        {
+            for (var i = 0; i < nTimes; ++i)
+            {
+                Debug.Log("rextest TestThreadLoom " + i);
+            }
+            //Run some code on the main thread  
+            //to update the mesh  
+            Loom.QueueOnMainThread(() =>
+            {
+                Debug.Log("rextest QueueOnMainThread " + nTimes);
+            });
+        });
+    }
 }

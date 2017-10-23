@@ -1,0 +1,11 @@
+Default,0,0
+Attack,1,21
+Death,22,63
+Idle_02,64,163
+Idle_01,164,224
+Run,225,235
+Eat_Play,236,250
+Idle_03,251,310
+Walk,311,340
+Hit_Right,341,348
+Hit_Left,349,356

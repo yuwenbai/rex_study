@@ -8,20 +8,20 @@ public class TestBundle : MonoBehaviour {
 	void Start () {
         //AssetBundle.LoadFromFile();
         //AssetBundle.LoadFromMemoryAsync();
-        Debug.Log("StreamingAssetsPath is " + Application.streamingAssetsPath);
-        var path = Path.Combine(Application.streamingAssetsPath, "test1.test1_child");
-        var myBundle = AssetBundle.LoadFromFile(path);
-        if (myBundle == null)
-        {
-            Debug.Log("Failed To Load AssetBundle!!!");
-            return;
-        }
-        var prefab = myBundle.LoadAsset("Hand_Man.prefab") as GameObject;
-        Instantiate(prefab);
+        //Debug.Log("StreamingAssetsPath is " + Application.streamingAssetsPath);
+        //var path = Path.Combine(Application.streamingAssetsPath, "test1.test1_child");
+        //var myBundle = AssetBundle.LoadFromFile(path);
+        //if (myBundle == null)
+        //{
+        //    Debug.Log("Failed To Load AssetBundle!!!");
+        //    return;
+        //}
+        //var prefab = myBundle.LoadAsset("Hand_Man.prefab") as GameObject;
+        //Instantiate(prefab);
 
-        myBundle.Unload(false);
+        //myBundle.Unload(false);
 
-        StartCoroutine(GetResource());
+        //StartCoroutine(GetResource());
     }
     IEnumerator GetResource()
     {
