@@ -35,6 +35,7 @@ public class ScriptRoot : MonoBehaviour
         ScriptsDataSet<main>();
         ScriptsDataSet<TestBundle>();
         ScriptsDataSet<TestLoadNewAB>();
+        ScriptsDataSet<Car>();
     }
     // Use this for initialization
     void Start()

@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using Game;
+using System.Reflection;
 using System.Text;
 using UnityEngine;
 public class MjPaiKou
@@ -55,7 +56,10 @@ public class main : MonoBehaviour {
         Debug.Log(utils.Output(_MjPaiKou));
         Debug.Log("test RefactionObject " + CommonTools.ReflactionObject(_MjPaiKou));
 
-        TestThreadLoom(10000);
+        FileLog fileLog = new FileLog(Application.dataPath + "/testlog", true);
+        fileLog.Log("111111111test 111");
+        fileLog.Flush();
+        //TestThreadLoom(10000);
 
         //Debug.Log("ffffff" + CommonTools.)
         //string str = MjPaiKou.ToString();

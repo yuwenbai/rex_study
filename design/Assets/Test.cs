@@ -18,9 +18,10 @@ public class Test : MonoBehaviour {
 		if(GUILayout.Button("OPEN WEBVIEW",GUILayout.Height(100)))
 		{
 			//注释1
-			 AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
-      	 	 AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
-        	 jo.Call("StartWebView","");
+			 //AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
+    //  	 	 AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
+    //    	 jo.Call("StartWebView","");
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync("design");
 		}
 		
 	}

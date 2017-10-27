@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Car : MonoBehaviour {
 
@@ -13,6 +14,17 @@ public class Car : MonoBehaviour {
             Debug.Log("rextest --------- " + wheelCount);
         }
     }
+    private void Awake()
+    {
+    }
+    private void Init()
+    {
+
+    }
+    //private void onBtnClick()
+    //{
+    //    UnityEngine.SceneManagement.SceneManager.LoadScene("scene");
+    //}
     // Use this for initialization
     void Start () {
 		
