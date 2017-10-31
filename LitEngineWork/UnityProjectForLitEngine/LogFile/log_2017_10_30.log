@@ -1,0 +1,547 @@
+﻿
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 10:59:08 AM                                                             *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 10:59:08 AM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 11:01:24 AM                                                             *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 11:01:24 AM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 11:02:27 AM                                                             *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 11:02:27 AM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 1:12:14 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 1:12:14 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 1:12:57 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 1:12:57 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:27:00 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:27:00 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:27:39 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:27:39 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:28:17 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:28:17 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:34:22 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:34:22 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:39:45 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:39:45 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 3:40:15 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 3:40:15 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 4:11:13 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 4:11:13 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:28:22 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:28:22 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:35:45 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:35:45 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:Start()(line:28)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:Start()(line:30)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:80)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:82)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:83)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:84)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:86)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:89)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:90)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:93)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:95)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:99)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:102)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:105)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:108)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:111)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:113)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:115)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:118)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->testmono:TestGetILObject()(line:119)
+---->testmono:Start()(line:36)
+
+[Error] [10/30/2017 5:35:45 PM] 脚本系统还未载入任何脚本.请执行 LoadProject 系列方法.
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptManager:get_CodeTool()(line:0)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:InitScript(System.String,System.String)(line:0)
+---->testmono:TestAddInterface()(line:75)
+---->testmono:Start()(line:37)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:39:17 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:39:17 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:45:28 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:45:28 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:45:54 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:45:54 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 5:46:21 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 5:46:21 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+[Error] [10/30/2017 5:46:21 PM] 脚本初始化出错:Class = TestB,AppName = testapp,GameObject = Main Camera,InitScript ->System.NullReferenceException: LS GetCSLEObjectParmasByType _type = null
+  at LitEngine.CodeTool_LS.GetCSLEObjectParmasByType (IType _type, System.Object[] _parmas) [0x00000] in <filename unknown>:0 
+  at LitEngine.ScriptInterface.BehaviourInterfaceBase.InitScript (System.String _class, System.String _AppName) [0x00000] in <filename unknown>:0 
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:InitScript(System.String,System.String)(line:0)
+---->testmono:TestAddInterface()(line:75)
+---->testmono:Start()(line:37)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 8:43:25 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 8:43:25 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 8:44:56 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 8:44:56 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:16)
+
+[Error] [10/30/2017 8:44:56 PM] 函数调用出错:Class:TestB GameObject:Main Camera CallScriptFunctionByNameParams ->System.NullReferenceException: Object reference not set to an instance of an object
+  at LitEngine.CodeTool_LS.CallMethod (System.Object method, System.Object _this, System.Object[] _params) [0x00000] in <filename unknown>:0 
+  at LitEngine.ScriptInterface.BehaviourInterfaceBase.CallScriptFunctionByNameParams (System.String _FunctionName, System.Object[] _prams) [0x00000] in <filename unknown>:0 
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:CallScriptFunctionByNameParams(System.String,System.Object[])(line:0)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:CallScriptFunctionByName(System.String)(line:0)
+---->LitEngine.ScriptInterface.ScriptInterfaceOnEnable:OnDisable()(line:0)
+---->UnityEngine.Object:Destroy(UnityEngine.Object,System.Single)(line:0)
+---->UnityEngine.Object:Destroy(UnityEngine.Object)(line:76)
+---->LitEngine.GameCore:DisposeNoGcCode()(line:0)
+---->LitEngine.CoreBase:Dispose(System.Boolean)(line:0)
+---->LitEngine.CoreBase:Dispose()(line:0)
+---->LitEngine.AppCore:DestroyGame(System.String)(line:0)
+---->LitEngine.AppCore:DestroyGameCore(System.String)(line:0)
+---->testmono:Start()(line:53)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 8:46:10 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 8:46:10 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Awake()(line:16)
+
+
+******************************** Application Start Message ********************************
+* 时间:10/30/2017 8:47:16 PM                                                              *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_30.log *
+*************************************** Message End *************************************** 
+[Error] [10/30/2017 8:47:16 PM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Awake()(line:16)
+
+[Error] [10/30/2017 8:47:16 PM] 函数调用出错:Class:TestB GameObject:Main Camera CallScriptFunctionByNameParams ->System.NullReferenceException: Object reference not set to an instance of an object
+  at LitEngine.CodeTool_LS.CallMethod (System.Object method, System.Object _this, System.Object[] _params) [0x00000] in <filename unknown>:0 
+  at LitEngine.ScriptInterface.BehaviourInterfaceBase.CallScriptFunctionByNameParams (System.String _FunctionName, System.Object[] _prams) [0x00000] in <filename unknown>:0 
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:CallScriptFunctionByNameParams(System.String,System.Object[])(line:0)
+---->LitEngine.ScriptInterface.BehaviourInterfaceBase:CallScriptFunctionByName(System.String)(line:0)
+---->LitEngine.ScriptInterface.ScriptInterfaceOnEnable:OnDisable()(line:0)
+---->UnityEngine.Object:Destroy(UnityEngine.Object,System.Single)(line:0)
+---->UnityEngine.Object:Destroy(UnityEngine.Object)(line:76)
+---->LitEngine.GameCore:DisposeNoGcCode()(line:0)
+---->LitEngine.CoreBase:Dispose(System.Boolean)(line:0)
+---->LitEngine.CoreBase:Dispose()(line:0)
+---->LitEngine.AppCore:DestroyGame(System.String)(line:0)
+---->LitEngine.AppCore:DestroyGameCore(System.String)(line:0)
+---->testmono:Awake()(line:52)
+

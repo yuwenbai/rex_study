@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2033883731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b62e60bc96d8ec677559893b67a106a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d658a48349e8e9f17240894a301ec155
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/NeedExportResources/Model/Handpfb.prefab
+Dependencies:
+- F:/GitWorker/UnityLitEngine/UnityProjectForLitEngine/Assets/BundlesResources/Data//TestApp//Android/handfbx.fbx.bytes
+- F:/GitWorker/UnityLitEngine/UnityProjectForLitEngine/Assets/BundlesResources/Data//TestApp//Android/handmat.mat.bytes

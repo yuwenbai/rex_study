@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2627399988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc7d7107f1000a286f38b29c37e605f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9c3d214d6e2cd55e94d312b753b3a1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/NeedExportResources/Model/testhand.controller
+Dependencies:
+- G:/Work/Code/Project/UnityTest/testilruntime/Assets/BundlesResources/Data//TestApp//iOS/handfbx.fbx.bytes

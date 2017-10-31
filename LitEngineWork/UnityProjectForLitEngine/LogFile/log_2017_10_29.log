@@ -1,0 +1,23 @@
+﻿
+******************************** Application Start Message ********************************
+* 时间:10/29/2017 12:22:16 AM                                                             *
+* 文件:G:/Work/Code/Project/UnityTest/testilruntime/Assets/../LogFile//log_2017_10_29.log *
+*************************************** Message End *************************************** 
+[Error] [10/29/2017 12:22:16 AM] <color=yellow>testtttttt</color>
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+---->UnityEngine.DebugLogHandler:Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)(line:0)
+---->UnityEngine.DebugLogHandler:LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])(line:10)
+---->UnityEngine.Logger:Log(UnityEngine.LogType,System.Object)(line:42)
+---->UnityEngine.Debug:LogError(System.Object)(line:117)
+---->testmono:Start()(line:15)
+
+[Exception] [10/29/2017 12:22:16 AM] NullReferenceException: Object reference not set to an instance of an object
+****************系统堆栈****************
+testc.testcall () (at Assets/testmono.cs:141)
+testb.testcall () (at Assets/testmono.cs:133)
+testa.testcall () (at Assets/testmono.cs:124)
+testmono.Start () (at Assets/testmono.cs:17)
+
+****************************************
+---->UnityEngine.Application:CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)(line:468)
+
