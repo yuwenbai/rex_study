@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3148437348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af36cf2413a89cee54e84b258b613169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e09a4976bd4a8e50fb897366583f387
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Model/Model_Man/m_Hand_z.FBX
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/StreamingAssets/model/model_man/materials/majiang_hand_boy_fingernail_001_low.data
+- E:/git_workshop/rex_study/design/Assets/StreamingAssets/model/model_man/materials/majiang_hand_boy_hand_001_low.data

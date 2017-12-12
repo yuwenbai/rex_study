@@ -1,0 +1,7 @@
+﻿11/22/2017 9:59:09 AM:log:start log
+11/22/2017 9:59:09 AM:log:rextest decoder print
+11/22/2017 9:59:09 AM:log:UnityEngine.Debug:Log(Object)
+Decoder:print() (at Assets/Scripts/Designpattern/Decoder.cs:24)
+Sticker:print() (at Assets/Scripts/Designpattern/Sticker.cs:13)
+main:Start() (at Assets/Scripts/main.cs:116)
+

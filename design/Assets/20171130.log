@@ -1,0 +1,31 @@
+﻿11/30/2017 8:46:41 PM:log:start log
+11/30/2017 8:46:41 PM:log:Tap gesture detected at (559.0, 247.0). It was sent by Cube
+11/30/2017 8:46:41 PM:log:UnityEngine.Debug:Log(Object)
+TapTutorial:OnTap(TapGesture) (at Assets/TapTutorial.cs:19)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DiscreteGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/DiscreteGestureRecognizer.cs:15)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:570)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+11/30/2017 8:46:52 PM:log:start log
+11/30/2017 8:46:52 PM:log:Tap gesture detected at (569.0, 265.0). It was sent by Cube
+11/30/2017 8:46:52 PM:log:UnityEngine.Debug:Log(Object)
+TapTutorial:OnTap(TapGesture) (at Assets/TapTutorial.cs:19)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DiscreteGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/DiscreteGestureRecognizer.cs:15)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:570)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+11/30/2017 8:56:15 PM:log:start log
+11/30/2017 8:56:15 PM:log:There are inconsistent line endings in the 'Assets/PinchTest.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+11/30/2017 8:56:15 PM:log:
+11/30/2017 8:56:17 PM:log:start log
+11/30/2017 8:56:17 PM:log:Assets/Scripts/ToolsGroup/CommonTools.cs(382,30): warning CS0168: The variable `ex' is declared but never used
+11/30/2017 8:56:17 PM:log:

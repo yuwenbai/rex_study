@@ -1,0 +1,261 @@
+ManifestFileVersion: 0
+CRC: 2321694325
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: texture/texture_login_03.data
+      Dependencies: {}
+    Info_1:
+      Name: texture/icon.data
+      Dependencies: {}
+    Info_2:
+      Name: texture/texture_login_girlhand.data
+      Dependencies: {}
+    Info_3:
+      Name: model/model_man/textures/majiang_hand_boy_fingernail_001_low.data
+      Dependencies: {}
+    Info_4:
+      Name: texture/tex_friendaward.data
+      Dependencies: {}
+    Info_5:
+      Name: texture/texture_logo.data
+      Dependencies: {}
+    Info_6:
+      Name: texture/texture_activity.data
+      Dependencies: {}
+    Info_7:
+      Name: texture/tex_lotterybg.data
+      Dependencies: {}
+    Info_8:
+      Name: sprite/icon-1024.data
+      Dependencies: {}
+    Info_9:
+      Name: texture/texture_loading_01.data
+      Dependencies: {}
+    Info_10:
+      Name: texture/desk_bj_sheng.data
+      Dependencies: {}
+    Info_11:
+      Name: texture/texture_login_02.data
+      Dependencies: {}
+    Info_12:
+      Name: model/model_woman/textures/majiang_hand_girl_hand_001_low.data
+      Dependencies: {}
+    Info_13:
+      Name: model/model_woman/textures/majiang_hand_girl_fingernail_001_low.data
+      Dependencies: {}
+    Info_14:
+      Name: texture/texture_login_06.data
+      Dependencies: {}
+    Info_15:
+      Name: texture/icon-1024.data
+      Dependencies: {}
+    Info_16:
+      Name: model/model_man/textures/majiang_hand_boy_hand_001_low.data
+      Dependencies: {}
+    Info_17:
+      Name: test.data
+      Dependencies: {}
+    Info_18:
+      Name: model/shader/handshader.data
+      Dependencies: {}
+    Info_19:
+      Name: shaders/outline1.data
+      Dependencies: {}
+    Info_20:
+      Name: model/model_man/materials/majiang_hand_boy_fingernail_001_low.data
+      Dependencies:
+        Dependency_0: model/model_man/textures/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: model/shader/handshader.data
+    Info_21:
+      Name: 'mesh/materials/material #13.data'
+      Dependencies: {}
+    Info_22:
+      Name: 'mesh/materials/material #12.data'
+      Dependencies: {}
+    Info_23:
+      Name: model/model_man/materials/majiang_hand_boy_hand_001_low.data
+      Dependencies:
+        Dependency_0: model/model_man/textures/majiang_hand_boy_hand_001_low.data
+        Dependency_1: model/shader/handshader.data
+    Info_24:
+      Name: model/model_woman/materials/majiang_hand_girl_fingernail_001_low.data
+      Dependencies:
+        Dependency_0: model/model_man/textures/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: model/model_woman/textures/majiang_hand_girl_fingernail_001_low.data
+        Dependency_2: model/shader/handshader.data
+    Info_25:
+      Name: mesh/cube.data
+      Dependencies:
+        Dependency_0: material/unlit_outline1.data
+    Info_26:
+      Name: material/unlit_outline1.data
+      Dependencies: {}
+    Info_27:
+      Name: model/model_woman/materials/majiang_hand_girl_hand_001_low.data
+      Dependencies:
+        Dependency_0: model/model_woman/textures/majiang_hand_girl_hand_001_low.data
+        Dependency_1: model/shader/handshader.data
+    Info_28:
+      Name: model/prefab_hand/hand_man.data
+      Dependencies:
+        Dependency_0: model/model_man/materials/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: model/model_man/materials/majiang_hand_boy_hand_001_low.data
+        Dependency_2: model/model_man/m_hand.data
+        Dependency_3: model/model_man/m_hand_z.data
+        Dependency_4: model/model_man/hand_man0.data
+    Info_29:
+      Name: mesh/materials/majiang_hand_boy_fingernail_001_low.data
+      Dependencies: {}
+    Info_30:
+      Name: model/prefab_hand/hand_woman.data
+      Dependencies:
+        Dependency_0: model/model_woman/materials/majiang_hand_girl_fingernail_001_low.data
+        Dependency_1: model/model_woman/materials/majiang_hand_girl_hand_001_low.data
+        Dependency_2: model/model_woman/w_hand_z.data
+        Dependency_3: model/model_woman/w_hand.data
+        Dependency_4: model/model_woman/hand_woman0.data
+    Info_31:
+      Name: mesh/materials/majiang_hand_boy_hand_001_low.data
+      Dependencies:
+        Dependency_0: model/model_woman/textures/majiang_hand_girl_hand_001_low.data
+        Dependency_1: model/shader/handshader.data
+    Info_32:
+      Name: "model/model_woman/w_\u624B\u63A8\u724C.data"
+      Dependencies: {}
+    Info_33:
+      Name: model/model_man/m_hand.data
+      Dependencies:
+        Dependency_0: model/model_man/materials/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: model/model_man/materials/majiang_hand_boy_hand_001_low.data
+    Info_34:
+      Name: mesh/m_hand_z.data
+      Dependencies:
+        Dependency_0: mesh/materials/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: mesh/materials/majiang_hand_boy_hand_001_low.data
+    Info_35:
+      Name: "model/model_man/m_\u624B\u70B9\u51FB.data"
+      Dependencies: {}
+    Info_36:
+      Name: model/model_woman/w_hand_z.data
+      Dependencies:
+        Dependency_0: model/model_woman/materials/majiang_hand_girl_fingernail_001_low.data
+        Dependency_1: model/model_woman/materials/majiang_hand_girl_hand_001_low.data
+    Info_37:
+      Name: model/model_man/m_hand_z.data
+      Dependencies:
+        Dependency_0: model/model_man/materials/majiang_hand_boy_fingernail_001_low.data
+        Dependency_1: model/model_man/materials/majiang_hand_boy_hand_001_low.data
+    Info_38:
+      Name: "model/model_woman/w_\u5403\u78B0\u6760.data"
+      Dependencies: {}
+    Info_39:
+      Name: model/model_woman/w_hand.data
+      Dependencies:
+        Dependency_0: model/model_woman/materials/majiang_hand_girl_fingernail_001_low.data
+        Dependency_1: model/model_woman/materials/majiang_hand_girl_hand_001_low.data
+    Info_40:
+      Name: "model/model_woman/w_\u624B\u63D2\u724C.data"
+      Dependencies: {}
+    Info_41:
+      Name: "model/model_woman/w_\u624B\u6263\u724C.data"
+      Dependencies: {}
+    Info_42:
+      Name: "model/model_woman/w_\u624B\u51FA\u724C.data"
+      Dependencies: {}
+    Info_43:
+      Name: "model/model_man/m_\u5403\u78B0\u6760.data"
+      Dependencies: {}
+    Info_44:
+      Name: model/model_woman/w_idle.data
+      Dependencies: {}
+    Info_45:
+      Name: "model/model_man/m_\u624B\u63A8\u724C.data"
+      Dependencies: {}
+    Info_46:
+      Name: "model/model_man/m_\u6574\u7406\u724C\u578B.data"
+      Dependencies: {}
+    Info_47:
+      Name: "model/model_man/m_\u624B\u63D2\u724C.data"
+      Dependencies: {}
+    Info_48:
+      Name: "model/model_woman/w_\u6293\u724C.data"
+      Dependencies: {}
+    Info_49:
+      Name: "model/model_man/m_\u624B\u51FA\u724C.data"
+      Dependencies: {}
+    Info_50:
+      Name: model/model_man/m_idle.data
+      Dependencies: {}
+    Info_51:
+      Name: "model/model_woman/w_\u624B\u70B9\u51FB.data"
+      Dependencies: {}
+    Info_52:
+      Name: "model/model_man/m_\u6293\u724C.data"
+      Dependencies: {}
+    Info_53:
+      Name: "model/model_man/m_\u624B\u6263\u724C.data"
+      Dependencies: {}
+    Info_54:
+      Name: "model/model_woman/w_\u6574\u7406\u724C\u578B.data"
+      Dependencies: {}
+    Info_55:
+      Name: model/model_woman/hand_woman0.data
+      Dependencies:
+        Dependency_0: "model/model_woman/w_\u624B\u63A8\u724C.data"
+        Dependency_1: "model/model_woman/w_\u5403\u78B0\u6760.data"
+        Dependency_2: "model/model_woman/w_\u624B\u63D2\u724C.data"
+        Dependency_3: "model/model_woman/w_\u624B\u6263\u724C.data"
+        Dependency_4: "model/model_woman/w_\u624B\u51FA\u724C.data"
+        Dependency_5: model/model_woman/w_idle.data
+        Dependency_6: "model/model_woman/w_\u6293\u724C.data"
+        Dependency_7: "model/model_woman/w_\u624B\u70B9\u51FB.data"
+        Dependency_8: "model/model_woman/w_\u6574\u7406\u724C\u578B.data"
+    Info_56:
+      Name: animator/testanimator.data
+      Dependencies:
+        Dependency_0: mesh/m_hand_z.data
+    Info_57:
+      Name: animator/ani.data
+      Dependencies:
+        Dependency_0: "model/model_woman/w_\u5403\u78B0\u6760.data"
+        Dependency_1: model/model_man/m_idle.data
+    Info_58:
+      Name: model/model_man/hand_man0.data
+      Dependencies:
+        Dependency_0: "model/model_man/m_\u624B\u70B9\u51FB.data"
+        Dependency_1: "model/model_man/m_\u5403\u78B0\u6760.data"
+        Dependency_2: "model/model_man/m_\u624B\u63A8\u724C.data"
+        Dependency_3: "model/model_man/m_\u6574\u7406\u724C\u578B.data"
+        Dependency_4: "model/model_man/m_\u624B\u63D2\u724C.data"
+        Dependency_5: "model/model_man/m_\u624B\u51FA\u724C.data"
+        Dependency_6: model/model_man/m_idle.data
+        Dependency_7: "model/model_man/m_\u6293\u724C.data"
+        Dependency_8: "model/model_man/m_\u624B\u6263\u724C.data"
+    Info_59:
+      Name: model/handpos.data
+      Dependencies: {}
+    Info_60:
+      Name: model/model_man/man_chapai.data
+      Dependencies: {}
+    Info_61:
+      Name: model/model_man/man_chipenggang.data
+      Dependencies: {}
+    Info_62:
+      Name: model/model_woman/woman_chupai.data
+      Dependencies: {}
+    Info_63:
+      Name: model/model_woman/woman_chipenggang.data
+      Dependencies: {}
+    Info_64:
+      Name: model/model_woman/woman_koupai.data
+      Dependencies: {}
+    Info_65:
+      Name: model/model_man/man_chupai.data
+      Dependencies: {}
+    Info_66:
+      Name: model/model_man/man_koupai.data
+      Dependencies: {}
+    Info_67:
+      Name: model/model_woman/woman_chapai.data
+      Dependencies: {}

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1355858004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de7d312d9501674f29b34a2246eb241a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dfb045827e1bc42b15dd84b6536b54c
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b6d026f71c229344a56228272ddecc0, type: 3}
+Assets:
+- Assets/Resources/Model/Model_WoMan/WoMan_chipenggang.asset
+Dependencies: []

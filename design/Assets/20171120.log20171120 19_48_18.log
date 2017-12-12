@@ -1,0 +1,7 @@
+﻿11/20/2017 7:48:18 PM:log:start log
+11/20/2017 7:48:18 PM:log:ArgumentException: An element with the same key already exists in the dictionary.
+11/20/2017 7:48:18 PM:log:System.Collections.Generic.Dictionary`2[System.Int32,System.Type].Add (Int32 key, System.Type value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+TcpDataHandler.AddType (Int32 no, System.Type protoGo) (at Assets/Scripts/Test/TestMsgManager.cs:21)
+LoginSceneHandle.Init () (at Assets/Scripts/Test/TestMsgManager.cs:28)
+main.Start () (at Assets/Scripts/main.cs:66)
+

@@ -1,0 +1,6 @@
+﻿11/13/2017 4:29:57 PM:log:start log
+11/13/2017 4:29:57 PM:log:Enterprise tax is 67.5
+11/13/2017 4:29:57 PM:log:UnityEngine.Debug:Log(Object)
+StrategyPattern:init() (at Assets/Scripts/Designpattern/StrategyPattern.cs:44)
+main:Start() (at Assets/Scripts/main.cs:136)
+

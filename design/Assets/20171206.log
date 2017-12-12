@@ -1,0 +1,667 @@
+﻿12/6/2017 4:16:48 PM:log:start log
+12/6/2017 4:16:48 PM:log:MissingComponentException: There is no 'PolygonCollider2D' attached to the "fingerg" game object, but a script is trying to access it.
+You probably need to add a PolygonCollider2D to the game object "fingerg". Or your script needs to check if the component is attached before using it.
+12/6/2017 4:16:48 PM:log:UnityEngine.Collider2D.OverlapPoint (Vector2 point) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Physics2D/Physics2DBindings.gen.cs:1874)
+test.OnGUI () (at Assets/Scripts/test.cs:73)
+
+12/6/2017 4:17:16 PM:log:start log
+12/6/2017 4:17:16 PM:log:Assets/EasyTouchBundle/EasyTouch/Examples/4.X/LoadExamples.cs(9,15): warning CS0618: `UnityEngine.Application.LoadLevel(string)' is obsolete: `Use SceneManager.LoadScene'
+12/6/2017 4:17:16 PM:log:
+12/6/2017 4:19:48 PM:log:start log
+12/6/2017 4:19:48 PM:log:TouchStart:(683.0, 382.0)
+12/6/2017 4:19:48 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:19:52 PM:log:start log
+12/6/2017 4:19:52 PM:log:TouchStart:(650.0, 387.0)
+12/6/2017 4:19:52 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:20:47 PM:log:start log
+12/6/2017 4:20:47 PM:log:TouchStart:(668.0, 373.0)
+12/6/2017 4:20:47 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:20:48 PM:log:start log
+12/6/2017 4:20:48 PM:log:TouchStart:(849.0, 241.0)
+12/6/2017 4:20:48 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:20:51 PM:log:start log
+12/6/2017 4:20:51 PM:log:TouchStart:(470.0, 214.0)
+12/6/2017 4:20:51 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:20:55 PM:log:start log
+12/6/2017 4:20:55 PM:log:TouchStart:(955.0, 273.0)
+12/6/2017 4:20:55 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:21:09 PM:log:start log
+12/6/2017 4:21:09 PM:log:TouchStart:(470.0, 303.0)
+12/6/2017 4:21:09 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:22:01 PM:log:start log
+12/6/2017 4:22:01 PM:log:Assets/EasyTouchBundle/EasyTouch/Examples/4.X/LoadExamples.cs(9,15): warning CS0618: `UnityEngine.Application.LoadLevel(string)' is obsolete: `Use SceneManager.LoadScene'
+12/6/2017 4:22:01 PM:log:
+12/6/2017 4:22:02 PM:log:start log
+12/6/2017 4:22:02 PM:log:Assets/EasyTouchBundle/EasyTouchControls/Plugins/Editor/ETCMenu.cs(149,43): warning CS0618: `UnityEngine.EventSystems.TouchInputModule' is obsolete: `TouchInputModule is no longer required as Touch input is now handled in StandaloneInputModule.'
+12/6/2017 4:22:02 PM:log:
+12/6/2017 4:22:10 PM:log:start log
+12/6/2017 4:22:10 PM:log:TouchStart:(672.0, 381.0)
+12/6/2017 4:22:10 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:23:17 PM:log:start log
+12/6/2017 4:23:17 PM:log:TouchStart:(651.0, 379.0)
+12/6/2017 4:23:17 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:28:30 PM:log:start log
+12/6/2017 4:28:30 PM:log:TouchStart:(674.0, 376.0)
+12/6/2017 4:28:30 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:66)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:28:35 PM:log:start log
+12/6/2017 4:28:35 PM:log:TouchStart:(657.0, 368.0)
+12/6/2017 4:28:35 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:66)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:28:39 PM:log:start log
+12/6/2017 4:28:39 PM:log:On_DragStart:(672.0, 362.0)
+12/6/2017 4:28:39 PM:log:UnityEngine.Debug:Log(Object)
+test:On_DragStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1437)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:689)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:28:45 PM:log:start log
+12/6/2017 4:28:45 PM:log:TouchStart:(659.0, 387.0)
+12/6/2017 4:28:45 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:66)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:28:52 PM:log:start log
+12/6/2017 4:28:52 PM:log:On_DragStart:(601.0, 290.0)
+12/6/2017 4:28:52 PM:log:UnityEngine.Debug:Log(Object)
+test:On_DragStart(Gesture) (at Assets/Scripts/test.cs:61)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1437)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:689)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:30:03 PM:log:start log
+12/6/2017 4:30:03 PM:log:TouchStart:(648.0, 371.0)
+12/6/2017 4:30:03 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:67)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:30:09 PM:log:start log
+12/6/2017 4:30:09 PM:log:TouchStart:(665.0, 349.0)
+12/6/2017 4:30:09 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:67)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:46 PM:log:start log
+12/6/2017 4:41:46 PM:log:TouchStart:(656.0, 368.0)
+12/6/2017 4:41:46 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:69)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:49 PM:log:start log
+12/6/2017 4:41:49 PM:log:On_Drag: (636.0, 368.0)
+12/6/2017 4:41:49 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:64)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:50 PM:log:start log
+12/6/2017 4:41:50 PM:log:On_Drag g.deltaPinch :0
+12/6/2017 4:41:50 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:62)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:50 PM:log:start log
+12/6/2017 4:41:50 PM:log:On_Drag g.deltaPinch :0
+12/6/2017 4:41:50 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:62)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:51 PM:log:start log
+12/6/2017 4:41:51 PM:log:On_Drag g.deltaPinch :0
+12/6/2017 4:41:51 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:62)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:41:52 PM:log:start log
+12/6/2017 4:41:52 PM:log:On_Drag: (636.0, 368.0)
+12/6/2017 4:41:52 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:64)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:04 PM:log:start log
+12/6/2017 4:42:04 PM:log:TouchStart:(663.0, 379.0)
+12/6/2017 4:42:04 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:69)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:05 PM:log:start log
+12/6/2017 4:42:05 PM:log:On_Drag: (630.0, 327.0)
+12/6/2017 4:42:05 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:64)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:52 PM:log:start log
+12/6/2017 4:42:52 PM:log:TouchStart:(660.0, 379.0)
+12/6/2017 4:42:52 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:69)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:53 PM:log:start log
+12/6/2017 4:42:53 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:53 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:54 PM:log:start log
+12/6/2017 4:42:54 PM:log:On_Drag deltaPosition :-14
+12/6/2017 4:42:54 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:54 PM:log:start log
+12/6/2017 4:42:54 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:54 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:55 PM:log:start log
+12/6/2017 4:42:55 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:55 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:56 PM:log:start log
+12/6/2017 4:42:56 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:56 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:57 PM:log:start log
+12/6/2017 4:42:57 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:57 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:42:58 PM:log:start log
+12/6/2017 4:42:58 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:42:58 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:43:01 PM:log:start log
+12/6/2017 4:43:01 PM:log:On_Drag deltaPosition :0
+12/6/2017 4:43:01 PM:log:UnityEngine.Debug:Log(Object)
+test:On_Drag(Gesture) (at Assets/Scripts/test.cs:63)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1441)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:725)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 4:43:12 PM:log:start log
+12/6/2017 4:43:12 PM:log:TouchStart:(674.0, 385.0)
+12/6/2017 4:43:12 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:69)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 5:46:41 PM:log:start log
+12/6/2017 5:46:41 PM:log:TouchStart:(659.0, 387.0)
+12/6/2017 5:46:41 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:77)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 5:46:46 PM:log:start log
+12/6/2017 5:46:46 PM:log:TouchStart:(677.0, 387.0)
+12/6/2017 5:46:46 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:77)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 5:47:03 PM:log:start log
+12/6/2017 5:47:03 PM:log:TouchStart:(653.0, 417.0)
+12/6/2017 5:47:03 PM:log:UnityEngine.Debug:Log(Object)
+test:On_TouchStart(Gesture) (at Assets/Scripts/test.cs:77)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 5:53:46 PM:log:start log
+12/6/2017 5:53:46 PM:log:rextest --------- 0
+12/6/2017 5:53:46 PM:log:UnityEngine.Debug:Log(Object)
+Car:set_WheelCount(Int32) (at Assets/Scripts/Test/Car.cs:14)
+CarEditor:OnInspectorGUI() (at Assets/Editor/CarEditor.cs:16)
+UnityEditor.DockArea:OnGUI()
+
+12/6/2017 5:53:54 PM:log:start log
+12/6/2017 5:53:54 PM:log:rextest --------- 0
+12/6/2017 5:53:54 PM:log:UnityEngine.Debug:Log(Object)
+Car:set_WheelCount(Int32) (at Assets/Scripts/Test/Car.cs:14)
+CarEditor:OnInspectorGUI() (at Assets/Editor/CarEditor.cs:16)
+UnityEditor.DockArea:OnGUI()
+
+12/6/2017 5:54:29 PM:log:start log
+12/6/2017 5:54:29 PM:log:rextest --------- 0
+12/6/2017 5:54:29 PM:log:UnityEngine.Debug:Log(Object)
+Car:set_WheelCount(Int32) (at Assets/Scripts/Test/Car.cs:14)
+CarEditor:OnInspectorGUI() (at Assets/Editor/CarEditor.cs:16)
+UnityEditor.DockArea:OnGUI()
+
+12/6/2017 8:43:09 PM:log:start log
+12/6/2017 8:43:09 PM:log:rextest --------- 0
+12/6/2017 8:43:09 PM:log:UnityEngine.Debug:Log(Object)
+Car:set_WheelCount(Int32) (at Assets/Scripts/Test/Car.cs:14)
+CarEditor:OnInspectorGUI() (at Assets/Editor/CarEditor.cs:16)
+UnityEditor.DockArea:OnGUI()
+
+12/6/2017 8:43:20 PM:log:start log
+12/6/2017 8:43:20 PM:log:onTouchStart :0
+12/6/2017 8:43:20 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:43:31 PM:log:start log
+12/6/2017 8:43:31 PM:log:onTouchStart :0
+12/6/2017 8:43:31 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:44:30 PM:log:start log
+12/6/2017 8:44:30 PM:log:onTouchStart :0
+12/6/2017 8:44:30 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:44:40 PM:log:start log
+12/6/2017 8:44:40 PM:log:onTouchStart :0
+12/6/2017 8:44:40 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:44:56 PM:log:start log
+12/6/2017 8:44:56 PM:log:onTouchStart :0
+12/6/2017 8:44:56 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:44:58 PM:log:start log
+12/6/2017 8:44:58 PM:log:onTouchStart :0
+12/6/2017 8:44:58 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:93)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:46:50 PM:log:start log
+12/6/2017 8:46:50 PM:log:Assets/EasyTouchBundle/EasyTouch/Examples/4.X/LoadExamples.cs(9,15): warning CS0618: `UnityEngine.Application.LoadLevel(string)' is obsolete: `Use SceneManager.LoadScene'
+12/6/2017 8:46:50 PM:log:
+12/6/2017 8:47:30 PM:log:start log
+12/6/2017 8:47:30 PM:log:onTouchStart :0
+12/6/2017 8:47:30 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:94)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:47:33 PM:log:start log
+12/6/2017 8:47:33 PM:log:onTouchStart :0
+12/6/2017 8:47:33 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:94)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:48:20 PM:log:start log
+12/6/2017 8:48:20 PM:log:onTouchStart :0
+12/6/2017 8:48:20 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:94)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:53:26 PM:log:start log
+12/6/2017 8:53:26 PM:log:onTouchStart :0
+12/6/2017 8:53:26 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:97)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:53:30 PM:log:start log
+12/6/2017 8:53:30 PM:log:onTouchDown :0
+12/6/2017 8:53:30 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:53:32 PM:log:start log
+12/6/2017 8:53:32 PM:log:onTouchDown :0
+12/6/2017 8:53:32 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:53:34 PM:log:start log
+12/6/2017 8:53:34 PM:log:onTouchDown :0
+12/6/2017 8:53:34 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 8:53:36 PM:log:start log
+12/6/2017 8:53:36 PM:log:onTouchDown :0
+12/6/2017 8:53:36 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:34 PM:log:start log
+12/6/2017 9:00:34 PM:log:onTouchStart :0
+12/6/2017 9:00:34 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:97)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:37 PM:log:start log
+12/6/2017 9:00:37 PM:log:onTouchDown :0
+12/6/2017 9:00:37 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:38 PM:log:start log
+12/6/2017 9:00:38 PM:log:onTouchDown :-7
+12/6/2017 9:00:38 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:40 PM:log:start log
+12/6/2017 9:00:40 PM:log:onTouchDown :7
+12/6/2017 9:00:40 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:42 PM:log:start log
+12/6/2017 9:00:42 PM:log:onTouchDown :6
+12/6/2017 9:00:42 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:44 PM:log:start log
+12/6/2017 9:00:44 PM:log:onTouchDown :2
+12/6/2017 9:00:44 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:47 PM:log:start log
+12/6/2017 9:00:47 PM:log:onTouchDown :-19
+12/6/2017 9:00:47 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:49 PM:log:start log
+12/6/2017 9:00:49 PM:log:onTouchDown :4
+12/6/2017 9:00:49 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:00:51 PM:log:start log
+12/6/2017 9:00:51 PM:log:onTouchDown :0
+12/6/2017 9:00:51 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:102)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:11:35 PM:log:start log
+12/6/2017 9:11:35 PM:log:On_Drag On_DragStart :0
+12/6/2017 9:11:35 PM:log:UnityEngine.Debug:Log(Object)
+test:On_DragStart(Gesture) (at Assets/Scripts/test.cs:121)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1449)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:698)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:03 PM:log:start log
+12/6/2017 9:13:03 PM:log:On_Drag On_DragStart :4
+12/6/2017 9:13:03 PM:log:UnityEngine.Debug:Log(Object)
+test:On_DragStart(Gesture) (at Assets/Scripts/test.cs:127)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1449)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:698)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:16 PM:log:start log
+12/6/2017 9:13:16 PM:log:On_Drag On_DragStart :21
+12/6/2017 9:13:16 PM:log:UnityEngine.Debug:Log(Object)
+test:On_DragStart(Gesture) (at Assets/Scripts/test.cs:127)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1449)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:698)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:45 PM:log:start log
+12/6/2017 9:13:45 PM:log:onTouchDown :0
+12/6/2017 9:13:45 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:46 PM:log:start log
+12/6/2017 9:13:46 PM:log:onTouchDown :0
+12/6/2017 9:13:46 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:49 PM:log:start log
+12/6/2017 9:13:49 PM:log:onTouchDown :0
+12/6/2017 9:13:49 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:52 PM:log:start log
+12/6/2017 9:13:52 PM:log:onTouchDown :0
+12/6/2017 9:13:52 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:54 PM:log:start log
+12/6/2017 9:13:54 PM:log:onTouchDown :0
+12/6/2017 9:13:54 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+
+12/6/2017 9:13:57 PM:log:start log
+12/6/2017 9:13:57 PM:log:onTouchDown :-32
+12/6/2017 9:13:57 PM:log:UnityEngine.Debug:Log(Object)
+test:onTouchDown(Gesture) (at Assets/Scripts/test.cs:104)
+HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1409)
+HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
+HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:733)
+HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
+

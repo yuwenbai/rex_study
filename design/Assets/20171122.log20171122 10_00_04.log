@@ -1,0 +1,3 @@
+﻿11/22/2017 10:00:04 AM:log:start log
+11/22/2017 10:00:04 AM:log:Assets/Editor/TestCreateController.cs(13,28): warning CS0219: The variable `mAnimatorController' is assigned but its value is never used
+11/22/2017 10:00:04 AM:log:

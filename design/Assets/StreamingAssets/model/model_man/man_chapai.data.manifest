@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1493418840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2e87e66b0c45550052151df44822c16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dfb045827e1bc42b15dd84b6536b54c
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b6d026f71c229344a56228272ddecc0, type: 3}
+Assets:
+- Assets/Resources/Model/Model_Man/Man_chapai.asset
+Dependencies: []

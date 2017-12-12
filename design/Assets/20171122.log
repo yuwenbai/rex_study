@@ -1,0 +1,178 @@
+﻿11/22/2017 9:57:24 AM:log:start log
+11/22/2017 9:57:24 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 9:57:24 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 9:59:08 AM:log:start log
+11/22/2017 9:59:08 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 9:59:08 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:00:03 AM:log:start log
+11/22/2017 10:00:03 AM:log:Assets/Scripts/ToolsGroup/CommonTools.cs(382,30): warning CS0168: The variable `ex' is declared but never used
+11/22/2017 10:00:03 AM:log:
+11/22/2017 10:00:13 AM:log:start log
+11/22/2017 10:00:13 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:00:13 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:32:36 AM:log:start log
+11/22/2017 10:32:36 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:32:36 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:32:43 AM:log:start log
+11/22/2017 10:32:43 AM:log:DoTweenAlpha
+11/22/2017 10:32:43 AM:log:UnityEngine.Debug:Log(Object)
+TestDoTween:DoTweenAlpha() (at Assets/Scripts/Test/TestDoTween.cs:21)
+
+11/22/2017 10:33:42 AM:log:start log
+11/22/2017 10:33:42 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:33:42 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:33:49 AM:log:start log
+11/22/2017 10:33:49 AM:log:DoTweenAlpha
+11/22/2017 10:33:49 AM:log:UnityEngine.Debug:Log(Object)
+TestDoTween:DoTweenAlpha() (at Assets/Scripts/Test/TestDoTween.cs:21)
+
+11/22/2017 10:34:07 AM:log:start log
+11/22/2017 10:34:07 AM:log:DoTweenAlpha
+11/22/2017 10:34:07 AM:log:UnityEngine.Debug:Log(Object)
+TestDoTween:DoTweenAlpha() (at Assets/Scripts/Test/TestDoTween.cs:21)
+
+11/22/2017 10:34:29 AM:log:start log
+11/22/2017 10:34:29 AM:log:DoTweenAlpha
+11/22/2017 10:34:29 AM:log:UnityEngine.Debug:Log(Object)
+TestDoTween:DoTweenAlpha() (at Assets/Scripts/Test/TestDoTween.cs:21)
+
+11/22/2017 10:46:00 AM:log:start log
+11/22/2017 10:46:00 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:46:00 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:46:11 AM:log:start log
+11/22/2017 10:46:11 AM:log:tween animation 开始
+11/22/2017 10:46:11 AM:log:UnityEngine.Debug:Log(Object)
+DoTweenTest2:OnPlay() (at Assets/Scripts/Test/DoTweenTest2.cs:67)
+DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:192)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:436)
+DG.Tweening.Core.DOTweenComponent:Update() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/DOTweenComponent.cs:51)
+
+11/22/2017 10:46:40 AM:log:start log
+11/22/2017 10:46:40 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:46:40 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:47:16 AM:log:start log
+11/22/2017 10:47:16 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:47:16 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:47:34 AM:log:start log
+11/22/2017 10:47:34 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:47:34 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:48:45 AM:log:start log
+11/22/2017 10:48:45 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:48:45 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:48:58 AM:log:start log
+11/22/2017 10:48:58 AM:log:rextest 111111
+11/22/2017 10:48:58 AM:log:UnityEngine.Debug:Log(Object)
+DoTweenTest2:<OnGUI>m__0() (at Assets/Scripts/Test/DoTweenTest2.cs:27)
+DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:253)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:436)
+DG.Tweening.Core.DOTweenComponent:Update() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/DOTweenComponent.cs:51)
+
+11/22/2017 10:49:40 AM:log:start log
+11/22/2017 10:49:40 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:49:40 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:49:45 AM:log:start log
+11/22/2017 10:49:45 AM:log:rextest 111111
+11/22/2017 10:49:45 AM:log:UnityEngine.Debug:Log(Object)
+DoTweenTest2:<OnGUI>m__0() (at Assets/Scripts/Test/DoTweenTest2.cs:27)
+DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:253)
+DG.Tweening.Core.TweenManager:Complete(Tween, Boolean, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:567)
+DG.Tweening.Core.TweenManager:FilteredOperation(OperationType, FilterType, Object, Boolean, Single, Object, Object[]) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:500)
+DG.Tweening.DOTween:CompleteAndReturnKilledTot() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/DOTween.cs:679)
+DG.Tweening.DOTween:KillAll(Boolean) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/DOTween.cs:723)
+DoTweenTest2:OnGUI() (at Assets/Scripts/Test/DoTweenTest2.cs:33)
+
+11/22/2017 10:49:53 AM:log:start log
+11/22/2017 10:49:53 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:49:53 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:50:32 AM:log:start log
+11/22/2017 10:50:32 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:50:32 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:50:41 AM:log:start log
+11/22/2017 10:50:41 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:50:41 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:50:45 AM:log:start log
+11/22/2017 10:50:45 AM:log:rextest 111111
+11/22/2017 10:50:45 AM:log:UnityEngine.Debug:Log(Object)
+DoTweenTest2:<OnGUI>m__0() (at Assets/Scripts/Test/DoTweenTest2.cs:27)
+DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:253)
+DG.Tweening.Core.TweenManager:Complete(Tween, Boolean, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:567)
+DG.Tweening.Core.TweenManager:FilteredOperation(OperationType, FilterType, Object, Boolean, Single, Object, Object[]) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:500)
+DG.Tweening.DOTween:CompleteAndReturnKilledTot() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/DOTween.cs:679)
+DG.Tweening.DOTween:KillAll(Boolean) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/DOTween.cs:723)
+DoTweenTest2:OnGUI() (at Assets/Scripts/Test/DoTweenTest2.cs:33)
+
+11/22/2017 10:57:14 AM:log:start log
+11/22/2017 10:57:14 AM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/22/2017 10:57:14 AM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+applephone:.ctor()
+main:Start() (at Assets/Scripts/main.cs:114)
+
+11/22/2017 10:57:14 AM:log:start log
+11/22/2017 10:57:14 AM:log:跑1000米
+11/22/2017 10:57:14 AM:log:UnityEngine.Debug:Log(Object)
+Receiver:Run1000Meters() (at Assets/Scripts/Designpattern/Receiver.cs:9)
+ConcreteCommand:Action() (at Assets/Scripts/Designpattern/ConcreteCommand.cs:13)
+Invoker:ExecuteCommond() (at Assets/Scripts/Designpattern/Invoker.cs:14)
+main:Start() (at Assets/Scripts/main.cs:127)
+

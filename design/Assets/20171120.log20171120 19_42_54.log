@@ -1,0 +1,5 @@
+﻿11/20/2017 7:42:54 PM:log:start log
+11/20/2017 7:42:54 PM:log:True
+11/20/2017 7:42:54 PM:log:UnityEngine.Debug:Log(Object)
+TestLoadNewAB:OnGUI() (at Assets/Scripts/Test/TestLoadNewAB.cs:17)
+

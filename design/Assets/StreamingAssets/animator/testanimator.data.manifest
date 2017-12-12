@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1776857846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b3667a55c0f4e1253e32cf87e7aef8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9c3d214d6e2cd55e94d312b753b3a1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animator/testAnimator.controller
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/StreamingAssets/mesh/m_hand_z.data

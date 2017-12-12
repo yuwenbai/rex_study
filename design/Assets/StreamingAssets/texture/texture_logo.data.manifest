@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3660296644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05f955176d5c09701e080b301e39ac41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Texture/Texture_logo.png
+Dependencies: []

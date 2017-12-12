@@ -1,0 +1,7 @@
+﻿12/6/2017 5:53:46 PM:log:start log
+12/6/2017 5:53:46 PM:log:rextest --------- 0
+12/6/2017 5:53:46 PM:log:UnityEngine.Debug:Log(Object)
+Car:set_WheelCount(Int32) (at Assets/Scripts/Test/Car.cs:14)
+CarEditor:OnInspectorGUI() (at Assets/Editor/CarEditor.cs:16)
+UnityEditor.DockArea:OnGUI()
+

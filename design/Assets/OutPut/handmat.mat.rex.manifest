@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 518247598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cad76a451de73ee2f2a8a9cdf2b10927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/NeedExportResources/Model/Handmat.mat
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/OutPut/texture_loading_01.png.rex

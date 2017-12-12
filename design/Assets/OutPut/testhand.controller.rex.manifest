@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1975570861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3350dd771c072ab7939b064f6e80958
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9c3d214d6e2cd55e94d312b753b3a1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/NeedExportResources/Model/testhand.controller
+Dependencies:
+- E:/git_workshop/rex_study/design/Assets/OutPut/handfbx.fbx.rex

@@ -1,0 +1,5 @@
+﻿11/7/2017 1:27:21 PM:log:start log
+11/7/2017 1:27:21 PM:log:rextest main android test
+11/7/2017 1:27:21 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+

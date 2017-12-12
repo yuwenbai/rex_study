@@ -1,0 +1,14 @@
+﻿11/15/2017 3:03:36 PM:log:start log
+11/15/2017 3:03:36 PM:log:You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+11/15/2017 3:03:36 PM:log:UnityEngine.MonoBehaviour:.ctor()
+phone:.ctor()
+Decoder:.ctor(phone) (at Assets/Scripts/Designpattern/Decoder.cs:13)
+Sticker:.ctor(phone) (at Assets/Scripts/Designpattern/Sticker.cs:7)
+main:Start() (at Assets/Scripts/main.cs:115)
+
+11/15/2017 3:03:36 PM:log:start log
+11/15/2017 3:03:36 PM:log:rextest TomatoEggs 
+11/15/2017 3:03:36 PM:log:UnityEngine.Debug:Log(Object)
+TomatoEggs:print() (at Assets/Scripts/Designpattern/SimpleFactory.cs:15)
+main:Start() (at Assets/Scripts/main.cs:140)
+

@@ -1,0 +1,10 @@
+﻿12/1/2017 2:43:09 PM:log:start log
+12/1/2017 2:43:09 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:09 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:09 PM:log:start log
+12/1/2017 2:43:09 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:09 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+

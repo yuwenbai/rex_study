@@ -1,0 +1,77 @@
+﻿11/13/2017 4:07:39 PM:log:start log
+11/13/2017 4:07:39 PM:log:rextest main android test
+11/13/2017 4:07:39 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:07:39 PM:log:start log
+11/13/2017 4:07:39 PM:log:Enterprise tax is 67.5
+11/13/2017 4:07:39 PM:log:UnityEngine.Debug:Log(Object)
+StrategyPattern:init() (at Assets/Scripts/Designpattern/StrategyPattern.cs:44)
+main:Start() (at Assets/Scripts/main.cs:136)
+
+11/13/2017 4:28:32 PM:log:start log
+11/13/2017 4:28:32 PM:log:rextest main android test
+11/13/2017 4:28:32 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:28:32 PM:log:start log
+11/13/2017 4:28:32 PM:log:rextest ShreddedPork 
+11/13/2017 4:28:32 PM:log:UnityEngine.Debug:Log(Object)
+ShreddedPork:print() (at Assets/Scripts/Designpattern/SimpleFactory.cs:22)
+main:Start() (at Assets/Scripts/main.cs:142)
+
+11/13/2017 4:29:08 PM:log:start log
+11/13/2017 4:29:08 PM:log:rextest main android test
+11/13/2017 4:29:08 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:29:08 PM:log:start log
+11/13/2017 4:29:08 PM:log:Enterprise tax is 67.5
+11/13/2017 4:29:08 PM:log:UnityEngine.Debug:Log(Object)
+StrategyPattern:init() (at Assets/Scripts/Designpattern/StrategyPattern.cs:44)
+main:Start() (at Assets/Scripts/main.cs:136)
+
+11/13/2017 4:29:15 PM:log:start log
+11/13/2017 4:29:15 PM:log:rextest main android test
+11/13/2017 4:29:15 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:29:15 PM:log:start log
+11/13/2017 4:29:15 PM:log:rextest TomatoEggs 
+11/13/2017 4:29:15 PM:log:UnityEngine.Debug:Log(Object)
+TomatoEggs:print() (at Assets/Scripts/Designpattern/SimpleFactory.cs:15)
+main:Start() (at Assets/Scripts/main.cs:139)
+
+11/13/2017 4:29:30 PM:log:start log
+11/13/2017 4:29:30 PM:log:rextest main android test
+11/13/2017 4:29:30 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:29:57 PM:log:start log
+11/13/2017 4:29:57 PM:log:Person Tax is 600
+11/13/2017 4:29:57 PM:log:UnityEngine.Debug:Log(Object)
+StrategyPattern:init() (at Assets/Scripts/Designpattern/StrategyPattern.cs:42)
+main:Start() (at Assets/Scripts/main.cs:136)
+
+11/13/2017 4:31:11 PM:log:start log
+11/13/2017 4:31:11 PM:log:rextest main android test
+11/13/2017 4:31:11 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:31:11 PM:log:start log
+11/13/2017 4:31:11 PM:log:西红柿炒蛋好了！
+11/13/2017 4:31:11 PM:log:UnityEngine.Debug:Log(Object)
+TomatoScrambledEggs:Print() (at Assets/Scripts/Designpattern/AbstractFactory.cs:15)
+main:Start() (at Assets/Scripts/main.cs:146)
+
+11/13/2017 4:35:14 PM:log:start log
+11/13/2017 4:35:14 PM:log:rextest main android test
+11/13/2017 4:35:14 PM:log:UnityEngine.Debug:Log(Object)
+main:Start() (at Assets/Scripts/main.cs:112)
+
+11/13/2017 4:35:15 PM:log:start log
+11/13/2017 4:35:15 PM:log:rextest ShreddedPork 
+11/13/2017 4:35:15 PM:log:UnityEngine.Debug:Log(Object)
+ShreddedPork:print() (at Assets/Scripts/Designpattern/SimpleFactory.cs:22)
+main:Start() (at Assets/Scripts/main.cs:142)
+

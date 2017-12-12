@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2133843959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ebd78679956a7b885e375b73df28a00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Texture/desk_bj_sheng.png
+Dependencies: []

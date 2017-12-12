@@ -1,0 +1,1258 @@
+﻿12/1/2017 10:33:54 AM:log:start log
+12/1/2017 10:33:54 AM:log:rextest OnDrag deltaMove -9 Y : -4
+12/1/2017 10:33:54 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:33:54 AM:log:start log
+12/1/2017 10:33:54 AM:log:rextest OnDrag totalMove -9 Y : -4
+12/1/2017 10:33:54 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:33:56 AM:log:start log
+12/1/2017 10:33:56 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:33:56 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:02 AM:log:start log
+12/1/2017 10:34:02 AM:log:rextest OnDrag deltaMove -70 Y : 0
+12/1/2017 10:34:02 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:02 AM:log:start log
+12/1/2017 10:34:02 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:34:02 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:22 AM:log:start log
+12/1/2017 10:34:22 AM:log:rextest OnDrag deltaMove 10 Y : 0
+12/1/2017 10:34:22 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:27 AM:log:start log
+12/1/2017 10:34:27 AM:log:rextest OnPinch  gap 190
+12/1/2017 10:34:27 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:400)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:34:34 AM:log:start log
+12/1/2017 10:34:34 AM:log:rextest OnDrag deltaMove 10 Y : 0
+12/1/2017 10:34:34 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:36 AM:log:start log
+12/1/2017 10:34:36 AM:log:rextest OnDrag deltaMove -10 Y : 0
+12/1/2017 10:34:36 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:37 AM:log:start log
+12/1/2017 10:34:37 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:34:37 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:38 AM:log:start log
+12/1/2017 10:34:38 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:34:38 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:39 AM:log:start log
+12/1/2017 10:34:39 AM:log:rextest OnDrag deltaMove -10 Y : 0
+12/1/2017 10:34:39 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:41 AM:log:start log
+12/1/2017 10:34:41 AM:log:rextest OnPinch  gap 130
+12/1/2017 10:34:41 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:400)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:34:42 AM:log:start log
+12/1/2017 10:34:42 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:34:42 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:34:42 AM:log:start log
+12/1/2017 10:34:42 AM:log:rextest OnPinch  gap 210
+12/1/2017 10:34:42 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+PinchRecognizer:OnRecognize(PinchGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/PinchRecognizer.cs:154)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:403)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:17 AM:log:start log
+12/1/2017 10:35:17 AM:log:rextest OnPinch  gap 170
+12/1/2017 10:35:17 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:400)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:18 AM:log:start log
+12/1/2017 10:35:18 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:18 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:19 AM:log:start log
+12/1/2017 10:35:19 AM:log:rextest OnPinch  gap 190
+12/1/2017 10:35:19 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:62)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:570)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:403)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:22 AM:log:start log
+12/1/2017 10:35:22 AM:log:rextest OnDrag totalMove -15 Y : 0
+12/1/2017 10:35:22 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:23 AM:log:start log
+12/1/2017 10:35:23 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:23 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:24 AM:log:start log
+12/1/2017 10:35:24 AM:log:rextest OnPinch  gap 170
+12/1/2017 10:35:24 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:400)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:25 AM:log:start log
+12/1/2017 10:35:25 AM:log:rextest OnDrag totalMove -10 Y : 0
+12/1/2017 10:35:25 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:27 AM:log:start log
+12/1/2017 10:35:27 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:27 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:29 AM:log:start log
+12/1/2017 10:35:29 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:29 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:29 AM:log:start log
+12/1/2017 10:35:29 AM:log:rextest OnPinch  gap 130
+12/1/2017 10:35:29 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:400)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:30 AM:log:start log
+12/1/2017 10:35:30 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:30 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:31 AM:log:start log
+12/1/2017 10:35:31 AM:log:rextest OnDrag totalMove 25 Y : 0
+12/1/2017 10:35:31 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:34 AM:log:start log
+12/1/2017 10:35:34 AM:log:rextest OnDrag deltaMove -10 Y : 0
+12/1/2017 10:35:34 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:35 AM:log:start log
+12/1/2017 10:35:35 AM:log:rextest OnPinch  gap 100
+12/1/2017 10:35:35 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnPinch(PinchGesture) (at Assets/PinchTest.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+PinchRecognizer:OnRecognize(PinchGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/PinchRecognizer.cs:154)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdateExclusive() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:403)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:385)
+
+12/1/2017 10:35:36 AM:log:start log
+12/1/2017 10:35:36 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:36 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:36 AM:log:start log
+12/1/2017 10:35:36 AM:log:rextest OnDrag deltaMove 5 Y : 0
+12/1/2017 10:35:36 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:37 AM:log:start log
+12/1/2017 10:35:37 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:35:37 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:40 AM:log:start log
+12/1/2017 10:35:40 AM:log:rextest OnDrag deltaMove 4 Y : -11
+12/1/2017 10:35:40 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:35:40 AM:log:start log
+12/1/2017 10:35:40 AM:log:rextest OnDrag totalMove 10 Y : -47
+12/1/2017 10:35:40 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:02 AM:log:start log
+12/1/2017 10:46:02 AM:log:There are inconsistent line endings in the 'Assets/PinchTest.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+12/1/2017 10:46:02 AM:log:
+12/1/2017 10:46:03 AM:log:start log
+12/1/2017 10:46:03 AM:log:Assets/Scripts/ToolsGroup/CommonTools.cs(382,30): warning CS0168: The variable `ex' is declared but never used
+12/1/2017 10:46:03 AM:log:
+12/1/2017 10:46:11 AM:log:start log
+12/1/2017 10:46:11 AM:log:rextest OnDrag deltaMove -10 Y : -3
+12/1/2017 10:46:11 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:12 AM:log:start log
+12/1/2017 10:46:12 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:46:12 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:12 AM:log:start log
+12/1/2017 10:46:12 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:46:12 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:12 AM:log:start log
+12/1/2017 10:46:12 AM:log:rextest OnDrag totalMove 8 Y : 5
+12/1/2017 10:46:12 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:14 AM:log:start log
+12/1/2017 10:46:14 AM:log:rextest OnDrag deltaMove -1 Y : 10
+12/1/2017 10:46:14 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:15 AM:log:start log
+12/1/2017 10:46:15 AM:log:rextest OnDrag deltaMove 10 Y : 5
+12/1/2017 10:46:15 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:16 AM:log:start log
+12/1/2017 10:46:16 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:46:16 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:16 AM:log:start log
+12/1/2017 10:46:16 AM:log:rextest OnDrag totalMove -67 Y : -17
+12/1/2017 10:46:16 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:16 AM:log:start log
+12/1/2017 10:46:16 AM:log:rextest OnDrag deltaMove 15 Y : -8
+12/1/2017 10:46:16 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:46:17 AM:log:start log
+12/1/2017 10:46:17 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:46:17 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:37 AM:log:start log
+12/1/2017 10:47:37 AM:log:rextest OnDrag deltaMove -10 Y : 0
+12/1/2017 10:47:37 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:38 AM:log:start log
+12/1/2017 10:47:38 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:38 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:38 AM:log:start log
+12/1/2017 10:47:38 AM:log:rextest OnDrag totalMove 2 Y : 0
+12/1/2017 10:47:38 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:38 AM:log:start log
+12/1/2017 10:47:38 AM:log:rextest OnDrag deltaMove -1 Y : 0
+12/1/2017 10:47:38 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:39 AM:log:start log
+12/1/2017 10:47:39 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:39 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:39 AM:log:start log
+12/1/2017 10:47:39 AM:log:rextest OnDrag deltaMove -1 Y : 0
+12/1/2017 10:47:39 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:40 AM:log:start log
+12/1/2017 10:47:40 AM:log:rextest OnDrag totalMove -3 Y : 12
+12/1/2017 10:47:40 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:40 AM:log:start log
+12/1/2017 10:47:40 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:40 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:41 AM:log:start log
+12/1/2017 10:47:41 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:41 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:41 AM:log:start log
+12/1/2017 10:47:41 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:41 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:41 AM:log:start log
+12/1/2017 10:47:41 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:41 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:45 AM:log:start log
+12/1/2017 10:47:45 AM:log:rextest OnDrag deltaMove 10 Y : -3
+12/1/2017 10:47:45 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:45 AM:log:start log
+12/1/2017 10:47:45 AM:log:rextest OnDrag totalMove 22 Y : -7
+12/1/2017 10:47:45 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:45 AM:log:start log
+12/1/2017 10:47:45 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:45 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:46 AM:log:start log
+12/1/2017 10:47:46 AM:log:rextest OnDrag totalMove 2 Y : 12
+12/1/2017 10:47:46 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:46 AM:log:start log
+12/1/2017 10:47:46 AM:log:rextest OnDrag totalMove 2 Y : 4
+12/1/2017 10:47:46 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:47 AM:log:start log
+12/1/2017 10:47:47 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:47 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:47 AM:log:start log
+12/1/2017 10:47:47 AM:log:rextest OnDrag totalMove 2 Y : -1
+12/1/2017 10:47:47 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:47 AM:log:start log
+12/1/2017 10:47:47 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:47 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:48 AM:log:start log
+12/1/2017 10:47:48 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:48 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:48 AM:log:start log
+12/1/2017 10:47:48 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:48 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:49 AM:log:start log
+12/1/2017 10:47:49 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:49 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:49 AM:log:start log
+12/1/2017 10:47:49 AM:log:rextest OnDrag totalMove 12 Y : -3
+12/1/2017 10:47:49 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:50 AM:log:start log
+12/1/2017 10:47:50 AM:log:rextest OnDrag totalMove 17 Y : 10
+12/1/2017 10:47:50 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:50 AM:log:start log
+12/1/2017 10:47:50 AM:log:rextest OnDrag deltaMove 0 Y : -1
+12/1/2017 10:47:50 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:50 AM:log:start log
+12/1/2017 10:47:50 AM:log:rextest OnDrag totalMove 21 Y : -17
+12/1/2017 10:47:50 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:51 AM:log:start log
+12/1/2017 10:47:51 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:51 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:47:51 AM:log:start log
+12/1/2017 10:47:51 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:47:51 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:06 AM:log:start log
+12/1/2017 10:48:06 AM:log:rextest OnDrag deltaMove 4 Y : 9
+12/1/2017 10:48:06 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+ContinuousGestureRecognizer`1:OnStateChanged(Gesture) (at Assets/Plugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs:58)
+Gesture:set_State(GestureRecognitionState) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:154)
+GestureRecognizerTS`1:Begin(T, Int32, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:517)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:423)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:06 AM:log:start log
+12/1/2017 10:48:06 AM:log:rextest OnDrag totalMove 5 Y : 14
+12/1/2017 10:48:06 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:07 AM:log:start log
+12/1/2017 10:48:07 AM:log:rextest OnDrag totalMove 7 Y : -7
+12/1/2017 10:48:07 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:07 AM:log:start log
+12/1/2017 10:48:07 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:48:07 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:08 AM:log:start log
+12/1/2017 10:48:08 AM:log:rextest OnDrag totalMove 7 Y : -6
+12/1/2017 10:48:08 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:08 AM:log:start log
+12/1/2017 10:48:08 AM:log:rextest OnDrag totalMove 8 Y : -2
+12/1/2017 10:48:08 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:08 AM:log:start log
+12/1/2017 10:48:08 AM:log:rextest OnDrag deltaMove -1 Y : 0
+12/1/2017 10:48:08 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:09 AM:log:start log
+12/1/2017 10:48:09 AM:log:rextest OnDrag totalMove 9 Y : -1
+12/1/2017 10:48:09 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:09 AM:log:start log
+12/1/2017 10:48:09 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:48:09 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:10 AM:log:start log
+12/1/2017 10:48:10 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:48:10 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:10 AM:log:start log
+12/1/2017 10:48:10 AM:log:rextest OnDrag totalMove -1 Y : -16
+12/1/2017 10:48:10 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:10 AM:log:start log
+12/1/2017 10:48:10 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:48:10 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:11 AM:log:start log
+12/1/2017 10:48:11 AM:log:rextest OnDrag totalMove -1 Y : 5
+12/1/2017 10:48:11 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:11 AM:log:start log
+12/1/2017 10:48:11 AM:log:rextest OnDrag totalMove -1 Y : -1
+12/1/2017 10:48:11 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:36)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 10:48:12 AM:log:start log
+12/1/2017 10:48:12 AM:log:rextest OnDrag deltaMove 0 Y : 0
+12/1/2017 10:48:12 AM:log:UnityEngine.Debug:Log(Object)
+PinchTest:OnDrag(DragGesture) (at Assets/PinchTest.cs:35)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+GestureRecognizerTS`1:RaiseEvent(T) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:605)
+DragRecognizer:OnRecognize(DragGesture, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs:109)
+GestureRecognizerTS`1:UpdateGesture(T, IFingerList) (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:543)
+GestureRecognizerTS`1:UpdatePerFinger() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:426)
+GestureRecognizerTS`1:Update() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:378)
+
+12/1/2017 2:43:07 PM:log:start log
+12/1/2017 2:43:07 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:07 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:07 PM:log:start log
+12/1/2017 2:43:07 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:07 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:08 PM:log:start log
+12/1/2017 2:43:08 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:08 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:09 PM:log:start log
+12/1/2017 2:43:09 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:09 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:10 PM:log:start log
+12/1/2017 2:43:10 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:10 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:11 PM:log:start log
+12/1/2017 2:43:11 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:11 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:12 PM:log:start log
+12/1/2017 2:43:12 PM:log:rextest LocalPosition  X: 3 Y: 3
+12/1/2017 2:43:12 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:33 PM:log:start log
+12/1/2017 2:43:33 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:43:33 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:33 PM:log:start log
+12/1/2017 2:43:33 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:43:33 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:34 PM:log:start log
+12/1/2017 2:43:34 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:43:34 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:35 PM:log:start log
+12/1/2017 2:43:35 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:43:35 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:43:36 PM:log:start log
+12/1/2017 2:43:36 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:43:36 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:44:12 PM:log:start log
+12/1/2017 2:44:12 PM:log:rextest LocalPosition  X: 30 Y: 30
+12/1/2017 2:44:12 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:19 PM:log:start log
+12/1/2017 2:45:19 PM:log:rextest LocalPosition  X: 0.2491074 Y: 0.2491074
+12/1/2017 2:45:19 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:20 PM:log:start log
+12/1/2017 2:45:20 PM:log:rextest LocalPosition  X: 26.63819 Y: 26.63819
+12/1/2017 2:45:20 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:20 PM:log:start log
+12/1/2017 2:45:20 PM:log:rextest LocalPosition  X: 29.66844 Y: 29.66844
+12/1/2017 2:45:20 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:21 PM:log:start log
+12/1/2017 2:45:21 PM:log:rextest LocalPosition  X: 29.97212 Y: 29.97212
+12/1/2017 2:45:21 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:22 PM:log:start log
+12/1/2017 2:45:22 PM:log:rextest LocalPosition  X: 29.99757 Y: 29.99757
+12/1/2017 2:45:22 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:23 PM:log:start log
+12/1/2017 2:45:23 PM:log:rextest LocalPosition  X: 29.99979 Y: 29.99979
+12/1/2017 2:45:23 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:23 PM:log:start log
+12/1/2017 2:45:23 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:23 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:24 PM:log:start log
+12/1/2017 2:45:24 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:24 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:25 PM:log:start log
+12/1/2017 2:45:25 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:25 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:26 PM:log:start log
+12/1/2017 2:45:26 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:26 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:27 PM:log:start log
+12/1/2017 2:45:27 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:27 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:28 PM:log:start log
+12/1/2017 2:45:28 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:28 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:28 PM:log:start log
+12/1/2017 2:45:28 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:28 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:29 PM:log:start log
+12/1/2017 2:45:29 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:29 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:30 PM:log:start log
+12/1/2017 2:45:30 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:30 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:31 PM:log:start log
+12/1/2017 2:45:31 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:31 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:32 PM:log:start log
+12/1/2017 2:45:32 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:32 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:33 PM:log:start log
+12/1/2017 2:45:33 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:33 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:33 PM:log:start log
+12/1/2017 2:45:33 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:33 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:34 PM:log:start log
+12/1/2017 2:45:34 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:34 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:35 PM:log:start log
+12/1/2017 2:45:35 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:35 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:45:36 PM:log:start log
+12/1/2017 2:45:36 PM:log:rextest LocalPosition  X: 29.99998 Y: 29.99998
+12/1/2017 2:45:36 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:69)
+
+12/1/2017 2:46:50 PM:log:start log
+12/1/2017 2:46:50 PM:log:rextest LocalPosition  X: 1 Y: 1.490871
+12/1/2017 2:46:50 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:51 PM:log:start log
+12/1/2017 2:46:51 PM:log:rextest LocalPosition  X: 20 Y: 20.45444
+12/1/2017 2:46:51 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:51 PM:log:start log
+12/1/2017 2:46:51 PM:log:rextest LocalPosition  X: 29 Y: 29.14986
+12/1/2017 2:46:51 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:52 PM:log:start log
+12/1/2017 2:46:52 PM:log:rextest LocalPosition  X: 29 Y: 29.92279
+12/1/2017 2:46:52 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:53 PM:log:start log
+12/1/2017 2:46:53 PM:log:rextest LocalPosition  X: 29 Y: 29.99348
+12/1/2017 2:46:53 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:54 PM:log:start log
+12/1/2017 2:46:54 PM:log:rextest LocalPosition  X: 29 Y: 29.99944
+12/1/2017 2:46:54 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:54 PM:log:start log
+12/1/2017 2:46:54 PM:log:rextest LocalPosition  X: 29 Y: 29.99995
+12/1/2017 2:46:54 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:55 PM:log:start log
+12/1/2017 2:46:55 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:55 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:56 PM:log:start log
+12/1/2017 2:46:56 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:56 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:57 PM:log:start log
+12/1/2017 2:46:57 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:57 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:58 PM:log:start log
+12/1/2017 2:46:58 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:58 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:59 PM:log:start log
+12/1/2017 2:46:59 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:59 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:46:59 PM:log:start log
+12/1/2017 2:46:59 PM:log:rextest LocalPosition  X: 29 Y: 29.99998
+12/1/2017 2:46:59 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:47:46 PM:log:start log
+12/1/2017 2:47:46 PM:log:rextest LocalPosition  X: 2 Y: 1.490997
+12/1/2017 2:47:46 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:47:46 PM:log:start log
+12/1/2017 2:47:46 PM:log:rextest LocalPosition  X: 25 Y: 24.73186
+12/1/2017 2:47:46 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:47:52 PM:log:start log
+12/1/2017 2:47:52 PM:log:rextest LocalPosition  X: 30 Y: 29.07704
+12/1/2017 2:47:52 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:48:05 PM:log:start log
+12/1/2017 2:48:05 PM:log:rextest LocalPosition  X: 2 Y: 1.49081
+12/1/2017 2:48:05 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:48:05 PM:log:start log
+12/1/2017 2:48:05 PM:log:rextest LocalPosition  X: 22 Y: 21.82914
+12/1/2017 2:48:05 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:48:20 PM:log:start log
+12/1/2017 2:48:20 PM:log:rextest LocalPosition  X: 1 Y: 0.2525177
+12/1/2017 2:48:20 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+
+12/1/2017 2:48:20 PM:log:start log
+12/1/2017 2:48:20 PM:log:rextest LocalPosition  X: 28 Y: 27.40297
+12/1/2017 2:48:20 PM:log:UnityEngine.Debug:Log(Object)
+test:LateUpdate() (at Assets/Scripts/test.cs:70)
+

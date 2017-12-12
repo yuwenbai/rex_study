@@ -1,0 +1,7 @@
+﻿11/2/2017 1:51:05 PM:log:start log
+11/2/2017 1:51:05 PM:log:name is Tom tenxun is TenXun Game
+11/2/2017 1:51:05 PM:log:UnityEngine.Debug:Log(Object)
+Subscriber:ReceiveAndPrint(TenXun) (at Assets/Scripts/Subscriber.cs:15)
+TenXun:update() (at Assets/Scripts/TenXun.cs:22)
+main:Start() (at Assets/Scripts/main.cs:132)
+

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Game;
 
 public class ScriptRoot : MonoBehaviour
 {
@@ -32,7 +33,6 @@ public class ScriptRoot : MonoBehaviour
     {
         DontDestroyOnLoad(gameObject);
         ScriptsDataSet<TestException>();
-        ScriptsDataSet<main>();
         ScriptsDataSet<TestBundle>();
         ScriptsDataSet<TestLoadNewAB>();
         ScriptsDataSet<Car>();
@@ -40,12 +40,27 @@ public class ScriptRoot : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        Application.logMessageReceivedThreaded += logCallback;
     }
-
+    public static void logCallback(string log, string stackTrace, UnityEngine.LogType _type)
+    {
+        FileLog fileLog = new FileLog(Application.dataPath +"/" + System.DateTime.Now.ToString("yyyyMMdd") + ".log", true);
+        fileLog.Log(log);
+        fileLog.Log(stackTrace);
+        fileLog.Flush();
+    }
     // Update is called once per frame
     void Update()
     {
+        
+    }
 
+    void OnGUI()
+    {
+        
+        if (GUILayout.Button("main script"))
+        {
+            ScriptsDataSet<main>();
+        }
     }
 }

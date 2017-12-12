@@ -1,0 +1,3 @@
+﻿12/11/2017 6:22:41 PM:log:start log
+12/11/2017 6:22:41 PM:log:Assets/EasyTouchBundle/EasyTouchControls/Plugins/Editor/ETCMenu.cs(149,43): warning CS0618: `UnityEngine.EventSystems.TouchInputModule' is obsolete: `TouchInputModule is no longer required as Touch input is now handled in StandaloneInputModule.'
+12/11/2017 6:22:41 PM:log:

@@ -1,0 +1,6 @@
+﻿12/6/2017 4:16:49 PM:log:start log
+12/6/2017 4:16:49 PM:log:MissingComponentException: There is no 'PolygonCollider2D' attached to the "fingerg" game object, but a script is trying to access it.
+You probably need to add a PolygonCollider2D to the game object "fingerg". Or your script needs to check if the component is attached before using it.
+12/6/2017 4:16:49 PM:log:UnityEngine.Collider2D.OverlapPoint (Vector2 point) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Physics2D/Physics2DBindings.gen.cs:1874)
+test.OnGUI () (at Assets/Scripts/test.cs:73)
+
