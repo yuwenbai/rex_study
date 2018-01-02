@@ -5,17 +5,19 @@ using UnityEngine;
 public class TestPrefab : MonoBehaviour
 {
     public GameObject aaa;
+    private void OnEnable()
+    {
+        Debug.Log("rextest TestPrefab OnEnable!!! ");
+    }
     private void Start()
     {
-        //TcpDataHandler.AddType(10000, typeof(int));
-        //TcpDataHandler.AddType(10001, typeof(int));
-        //TcpDataHandler.Init();
-        for (int i = 0; i < 100000; ++i)
-        {
-            var sprite = Instantiate(aaa);
-            sprite.transform.parent = transform;
-            var sharedMaterial = sprite.GetComponent<SpriteRenderer>().sharedMaterial;
-        }
+        Debug.Log("rextest TestPrefab Start!!! ");
+        //for (int i = 0; i < 100000; ++i)
+        //{
+        //    var sprite = Instantiate(aaa);
+        //    sprite.transform.parent = transform;
+        //    var sharedMaterial = sprite.GetComponent<SpriteRenderer>().sharedMaterial;
+        //}
     }
     // Update is called once per frame
     void Update()

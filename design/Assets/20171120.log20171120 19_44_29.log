@@ -1,6 +1,0 @@
-﻿11/20/2017 7:44:29 PM:log:start log
-11/20/2017 7:44:29 PM:log:电脑开始在组装.......
-11/20/2017 7:44:29 PM:log:UnityEngine.Debug:Log(Object)
-Computer:show() (at Assets/Scripts/Designpattern/Director.cs:48)
-main:Start() (at Assets/Scripts/main.cs:173)
-

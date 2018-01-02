@@ -4,7 +4,7 @@ using Game;
 
 public class ScriptRoot : MonoBehaviour
 {
-
+    int d;
     private static ScriptRoot instance = null;
 
     public static ScriptRoot Instance
@@ -31,6 +31,7 @@ public class ScriptRoot : MonoBehaviour
     }
     private void Init()
     {
+        
         DontDestroyOnLoad(gameObject);
         ScriptsDataSet<TestException>();
         ScriptsDataSet<TestBundle>();
@@ -44,15 +45,15 @@ public class ScriptRoot : MonoBehaviour
     }
     public static void logCallback(string log, string stackTrace, UnityEngine.LogType _type)
     {
-        FileLog fileLog = new FileLog(Application.dataPath +"/" + System.DateTime.Now.ToString("yyyyMMdd") + ".log", true);
-        fileLog.Log(log);
-        fileLog.Log(stackTrace);
-        fileLog.Flush();
+        //FileLog fileLog = new FileLog(Application.dataPath +"/" + System.DateTime.Now.ToString("yyyyMMdd") + ".log", true);
+        //fileLog.Log(log);
+        //fileLog.Log(stackTrace);
+        //fileLog.Flush();
     }
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     void OnGUI()

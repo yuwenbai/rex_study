@@ -1,8 +1,0 @@
-﻿12/12/2017 8:09:52 PM:log:start log
-12/12/2017 8:09:52 PM:log:NullReferenceException: Object reference not set to an instance of an object
-12/12/2017 8:09:52 PM:log:Test.Update () (at Assets/Scripts/Test.cs:48)
-
-12/12/2017 8:09:52 PM:log:start log
-12/12/2017 8:09:52 PM:log:NullReferenceException: Object reference not set to an instance of an object
-12/12/2017 8:09:52 PM:log:Test.Update () (at Assets/Scripts/Test.cs:48)
-

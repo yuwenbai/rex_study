@@ -1,7 +1,0 @@
-﻿11/13/2017 4:35:15 PM:log:start log
-11/13/2017 4:35:15 PM:log:rextest addAccessories
-11/13/2017 4:35:15 PM:log:UnityEngine.Debug:Log(Object)
-Accessories:addAccessories() (at Assets/Scripts/Designpattern/Accessories.cs:18)
-Accessories:print() (at Assets/Scripts/Designpattern/Accessories.cs:14)
-main:Start() (at Assets/Scripts/main.cs:118)
-

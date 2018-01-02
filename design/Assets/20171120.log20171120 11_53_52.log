@@ -1,6 +1,0 @@
-﻿11/20/2017 11:53:52 AM:log:start log
-11/20/2017 11:53:52 AM:log:西红柿炒蛋好了！
-11/20/2017 11:53:52 AM:log:UnityEngine.Debug:Log(Object)
-TomatoScrambledEggs:Print() (at Assets/Scripts/Designpattern/Factory.cs:15)
-main:Start() (at Assets/Scripts/main.cs:149)
-

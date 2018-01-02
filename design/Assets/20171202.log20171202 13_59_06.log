@@ -1,7 +1,0 @@
-﻿12/2/2017 1:59:06 PM:log:start log
-12/2/2017 1:59:06 PM:log:Failed to register gesture recognizer fingerg (DragRecognizer) - FingerGestures instance is not available.
-12/2/2017 1:59:06 PM:log:UnityEngine.Debug:LogError(Object)
-GestureRecognizer:OnEnable() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:751)
-GestureRecognizerTS`1:OnEnable() (at Assets/Plugins/FingerGestures/Scripts/Base/GestureRecognizer.cs:251)
-UnityEditor.DockArea:OnGUI()
-

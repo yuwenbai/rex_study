@@ -1,9 +1,0 @@
-﻿12/6/2017 8:47:34 PM:log:start log
-12/6/2017 8:47:34 PM:log:onTouchStart :0
-12/6/2017 8:47:34 PM:log:UnityEngine.Debug:Log(Object)
-test:onTouchStart(Gesture) (at Assets/Scripts/test.cs:94)
-HedgehogTeam.EasyTouch.EasyTouch:RaiseEvent(EvtType, Gesture) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:1405)
-HedgehogTeam.EasyTouch.EasyTouch:CreateGesture(Int32, EvtType, Finger, SwipeDirection, Single, Vector2) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:861)
-HedgehogTeam.EasyTouch.EasyTouch:OneFinger(Int32) (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:647)
-HedgehogTeam.EasyTouch.EasyTouch:Update() (at Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs:519)
-

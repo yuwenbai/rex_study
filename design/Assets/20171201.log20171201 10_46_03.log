@@ -1,3 +1,0 @@
-﻿12/1/2017 10:46:03 AM:log:start log
-12/1/2017 10:46:03 AM:log:Assets/Scripts/ToolsGroup/CommonTools.cs(449,19): warning CS0652: A comparison between a constant and a variable is useless. The constant is out of the range of the variable type `char'
-12/1/2017 10:46:03 AM:log:

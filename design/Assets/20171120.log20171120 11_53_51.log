@@ -1,6 +1,0 @@
-﻿11/20/2017 11:53:51 AM:log:start log
-11/20/2017 11:53:51 AM:log:Person Tax is 600
-11/20/2017 11:53:51 AM:log:UnityEngine.Debug:Log(Object)
-StrategyPattern:init() (at Assets/Scripts/Designpattern/StrategyPattern.cs:42)
-main:Start() (at Assets/Scripts/main.cs:137)
-

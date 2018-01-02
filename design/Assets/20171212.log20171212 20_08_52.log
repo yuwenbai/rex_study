@@ -1,5 +1,0 @@
-﻿12/12/2017 8:08:52 PM:log:start log
-12/12/2017 8:08:52 PM:log:OnDisable
-12/12/2017 8:08:52 PM:log:UnityEngine.MonoBehaviour:print(Object)
-Test:OnDisable() (at Assets/Scripts/Test.cs:36)
-

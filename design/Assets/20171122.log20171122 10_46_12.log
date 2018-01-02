@@ -1,9 +1,0 @@
-﻿11/22/2017 10:46:12 AM:log:start log
-11/22/2017 10:46:12 AM:log:tween animation 结束
-11/22/2017 10:46:12 AM:log:UnityEngine.Debug:Log(Object)
-DoTweenTest2:OnComplete() (at Assets/Scripts/Test/DoTweenTest2.cs:62)
-DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
-DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:253)
-DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:436)
-DG.Tweening.Core.DOTweenComponent:Update() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/DOTweenComponent.cs:51)
-
