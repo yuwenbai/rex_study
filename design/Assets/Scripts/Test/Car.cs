@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Car : MonoBehaviour {
+public class Car : MonoBehaviour
+{
 
 
     public int wheelCount = 0;
     public int WheelCount
     {
-        set {
+        set
+        {
             wheelCount = value;
             Debug.Log("rextest --------- " + wheelCount);
         }
@@ -26,12 +28,14 @@ public class Car : MonoBehaviour {
     //    UnityEngine.SceneManagement.SceneManager.LoadScene("scene");
     //}
     // Use this for initialization
-    void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 }

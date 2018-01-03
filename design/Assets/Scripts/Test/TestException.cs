@@ -1,5 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.IO;
+using System.Net;
+using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
 public class BaseClass : MonoBehaviour
@@ -25,9 +29,12 @@ public class TestException : MonoBehaviour {
     public Text label;
     public GameObject AnimObj;
     public Character mTestCharacter = null;
+    HeroineStateManager stateManager = null;
     void Awake()
     {
         Application.logMessageReceived += HandleException;
+
+        stateManager = new HeroineStateManager();
     }
 
     void HandleException(string condition, string stackTrace, LogType type)
@@ -46,7 +53,7 @@ public class TestException : MonoBehaviour {
     // Use this for initialization
     void Start () {
 
-        BaseClass A = new ClassA();
+        //BaseClass A = new ClassA();
         //A.a = 20;
         //gameObject.
         //gameObject.AddComponent<typeof(A)> ();
@@ -65,6 +72,7 @@ public class TestException : MonoBehaviour {
     // Update is called once per frame
     void OnGUI()
     {
+
         if (GUI.Button(new Rect(0 * 100, 30, 100, 50), "111" + (true ? "(√)" : "")))
         {
             if (mTestCharacter == null)
@@ -86,13 +94,22 @@ public class TestException : MonoBehaviour {
 
         if (GUI.Button(new Rect(0 * 100, 80, 100, 50), "body" + (true ? "(√)" : "")))
         {
-            mTestCharacter.ChangePart(ItemEnum.ItemEnumPart.ItemEnumPart_Body, "ch_pc_hou_006_shen");
+            //mTestCharacter.ChangePart(ItemEnum.ItemEnumPart.ItemEnumPart_Body, "ch_pc_hou_006_shen");
+            stateManager.HandleInput(null);
         }
-        if (GUI.Button(new Rect(1 * 100, 80, 100, 50), "Head" + (true ? "(√)" : "")))
+        if (GUI.Button(new Rect(1 * 100, 80, 100, 50), "dunkingstate" + (true ? "(√)" : "")))
         {
+            stateManager.SetState(new DuckingState());
         }
-        if (GUI.Button(new Rect(2 * 100, 80, 100, 50), "Head" + (true ? "(√)" : "")))
+        if (GUI.Button(new Rect(2 * 100, 80, 100, 50), "attackingstate" + (true ? "(√)" : "")))
         {
+            stateManager.SetState(new AttackingState());
+            //HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://www.baidu.com");    //创建一个请求示例
+            //HttpWebResponse response  = (HttpWebResponse)request.GetResponse();　　//获取响应，即发送请求
+            //Stream responseStream = response.GetResponseStream();
+            //StreamReader streamReader = new StreamReader(responseStream, Encoding.UTF8);
+            //string html = streamReader.ReadToEnd();
+            //Console.WriteLine(html);
         }
         //if (GUI.Button(new Rect(50, 300, 128, 64), "点我就可以"))
         //{
