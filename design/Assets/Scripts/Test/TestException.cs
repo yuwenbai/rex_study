@@ -9,12 +9,13 @@ using UnityEngine.UI;
 public class BaseClass : MonoBehaviour
 {
     public int a;
+    public double Quantity { get; set; }
 }
 public class ClassA : BaseClass
 {
     public ClassA()
     {
-        Debug.Log("rextest Class A");
+        
     }
 }
 public class ClassB : BaseClass
@@ -30,11 +31,16 @@ public class TestException : MonoBehaviour {
     public GameObject AnimObj;
     public Character mTestCharacter = null;
     HeroineStateManager stateManager = null;
+
+    Heroine mHeroine = null;
     void Awake()
     {
         Application.logMessageReceived += HandleException;
 
         stateManager = new HeroineStateManager();
+
+        //ClassA aa = new ClassA();
+        //aa.Quantity = 20;
     }
 
     void HandleException(string condition, string stackTrace, LogType type)
@@ -95,7 +101,94 @@ public class TestException : MonoBehaviour {
         if (GUI.Button(new Rect(0 * 100, 80, 100, 50), "body" + (true ? "(√)" : "")))
         {
             //mTestCharacter.ChangePart(ItemEnum.ItemEnumPart.ItemEnumPart_Body, "ch_pc_hou_006_shen");
-            stateManager.HandleInput(null);
+            //stateManager.HandleInput(null);
+            //List<Interpreter> mList = new List<Interpreter>();
+            //mList.Add(new TerminalInterpreter());
+            //mList.Add(new NonterminalInterpreter());
+            //foreach(var inter in mList)
+            //{
+            //    inter.Interpret();
+            //}
+
+            //ConcreteMediator m = new ConcreteMediator();
+            //ConcreteColleague concreteColleague = new ConcreteColleague(m);
+            //DisConcreteColleague disconcreteColleague = new DisConcreteColleague(m);
+            //concreteColleague.ColleagueSend("test 111");
+            //disconcreteColleague.ColleagueSend("test 222");
+            //Originator o = new Originator();
+            //o.State = "On";
+            //Caretaker c = new Caretaker();
+            //c.Memento = o.CreateMemento();
+            //o.State = "Off";
+            //o.SetMemento(c.Memento);
+
+            //ConcreteSubject s = new ConcreteSubject();
+            //s.Attach(new ConcreteObserver(s, "A"));
+            //s.Attach(new ConcreteObserver(s, "B"));
+            //s.Attach(new ConcreteObserver(s, "C"));
+
+            //s.SubjectState = "ABC";
+            //s.Notify();
+            //s.SubjectState = "DEF";
+            //s.Notify();
+
+            //AbstractClass abstractClassA = new ConcreteClassA();
+            //abstractClassA.TemplateMethod();
+            //AbstractClass abstractClassB = new ConcreteClassB();
+            //abstractClassB.TemplateMethod();
+
+            //ObjectStructure o = new ObjectStructure();
+            //o.Attach(new ElementA());
+            //o.Attach(new ElementB());
+
+            //o.Accept(new ConcreteVistor1());
+            //o.Accept(new ConcreteVistor2());
+
+            //Build build1 = new ConcreteBuilder1();
+            //Build build2 = new ConcreteBuilder2();
+            //Product p = new Product();
+
+            //ProductDirector productDirector = new ProductDirector();
+            //productDirector.Constuct(build1);
+            //Product p1 = build1.GetResult();
+            //p1.Show();
+            //productDirector.Constuct(build2);
+            //Product p2 = build2.GetResult();
+            //p2.Show();
+
+            //ConcretePrototype1 p1 = new ConcretePrototype1("I");
+            //ConcretePrototype1 c1 = (ConcretePrototype1)p1.Clone();
+            //Debug.Log("Cloned: " + c1.Id);
+
+            //ConcretePrototype2 p2 = new ConcretePrototype2("II");
+            //ConcretePrototype2 c2 = (ConcretePrototype2)p2.Clone();
+            //Debug.Log("Cloned: " + c2.Id);
+
+            //CloneFactory cloneFactory = new CloneFactory();
+            //Sheep sally = new Sheep();
+            //Sheep clonedSheep = (Sheep)cloneFactory.GetClone(sally);
+            //Debug.Log("Sally: " + sally.ToStringEX());
+            //Debug.Log("Clone of Sally: " + clonedSheep.ToStringEX());
+            //Debug.Log("Sally Hash: " + sally.GetHashCode() + " - Cloned Sheep Hash: " + clonedSheep.GetHashCode());
+
+            //RPGGame rPGGame = new RPGGame();
+            //rPGGame.Start();
+            //rPGGame.Update();
+
+            Breed troll = new Breed(null, 25, "The troll hits you!");
+            Breed trollArcher = new Breed(troll, 0, "The troll archer fires an arrow!");
+            Breed trollWizard = new Breed(troll, 0, "The troll wizard casts a spell on you!");
+
+            //通过种类创建monster对象
+            Monster trollMonster = troll.NewMonster();
+            trollMonster.ShowAttack();
+
+            Monster trollArcherMonster = trollArcher.NewMonster();
+            trollArcherMonster.ShowAttack();
+
+            Monster trollWizardMonster = trollWizard.NewMonster();
+            trollWizardMonster.ShowAttack();
+
         }
         if (GUI.Button(new Rect(1 * 100, 80, 100, 50), "dunkingstate" + (true ? "(√)" : "")))
         {
@@ -138,5 +231,11 @@ public class TestException : MonoBehaviour {
         //}
     }
 	void Update () {
+
+        if (mHeroine == null)
+        {
+            mHeroine = new Heroine();
+        }
+        mHeroine.HandleInput();
     }
 }

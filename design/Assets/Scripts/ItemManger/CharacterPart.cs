@@ -18,25 +18,23 @@ class CharacterPart
     private void Init()
     {
         var res = Resources.Load("Model/CharacterPrefab/" + partName);
-        obj = GameObject.Instantiate(res) as GameObject;
+        Obj = GameObject.Instantiate(res) as GameObject;
     }
     public void ChangeObj(string name)
     {
         partName = name;
 
-        if (obj)
+        if (Obj)
         {
-            GameObject.DestroyImmediate(obj);
+            GameObject.DestroyImmediate(Obj);
         }
         Init();
     }
-    private ItemEnum.ItemEnumPart partType;
+    public ItemEnum.ItemEnumPart partType;
     public ItemEnum.ItemEnumPart PartType
     {
-        get
-        {
-            return partType;    
-        }
+        get;
+        set;
     }
     private string partName;
     public string PartName
@@ -47,13 +45,10 @@ class CharacterPart
         }
     }
 
-    private GameObject obj;
     public GameObject Obj
     {
-        get
-        {
-            return obj;
-        }
+        get;
+        set;
         //set
         //{
         //    obj = value;

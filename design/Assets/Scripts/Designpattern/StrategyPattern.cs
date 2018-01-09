@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//策略模式
 public interface ITaxStragegy
 {
     double CalculateTex(double income);

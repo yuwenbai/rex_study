@@ -10,9 +10,6 @@ class HeroineStateManager
 
     public void SetState(HeroineState state)
     {
-        if (mState == state)
-            return;
-
         if (mState !=null )
         {
             mState.leave();
@@ -21,9 +18,9 @@ class HeroineStateManager
     }
     public void HandleInput(Input input)
     {
-            if (mState != null)
-            {
-                mState.Init();
-            }
+        if (mState != null)
+        {
+            mState.Init();
+        }
     }
 }
