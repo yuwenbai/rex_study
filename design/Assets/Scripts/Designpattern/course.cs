@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class course : MonoBehaviour {
+public class course  {
 
     public bool registercourse(string aaa)
     {

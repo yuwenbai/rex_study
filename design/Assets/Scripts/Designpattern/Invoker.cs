@@ -5,7 +5,11 @@ using UnityEngine;
 public class Invoker {
 
     public Commond _commond;
-    public Invoker(Commond commond)
+    public Invoker(Commond commond = null)
+    {
+        this._commond = commond;
+    }
+    public void SetCommond(Commond commond)
     {
         this._commond = commond;
     }

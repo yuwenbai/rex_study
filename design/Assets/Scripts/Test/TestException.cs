@@ -175,20 +175,74 @@ public class TestException : MonoBehaviour {
             //rPGGame.Start();
             //rPGGame.Update();
 
-            Breed troll = new Breed(null, 25, "The troll hits you!");
-            Breed trollArcher = new Breed(troll, 0, "The troll archer fires an arrow!");
-            Breed trollWizard = new Breed(troll, 0, "The troll wizard casts a spell on you!");
+            //Breed troll = new Breed(null, 25, "The troll hits you!");
+            //Breed trollArcher = new Breed(troll, 0, "The troll archer fires an arrow!");
+            //Breed trollWizard = new Breed(troll, 0, "The troll wizard casts a spell on you!");
 
-            //通过种类创建monster对象
-            Monster trollMonster = troll.NewMonster();
-            trollMonster.ShowAttack();
+            ////通过种类创建monster对象
+            //Monster trollMonster = troll.NewMonster();
+            //trollMonster.ShowAttack();
 
-            Monster trollArcherMonster = trollArcher.NewMonster();
-            trollArcherMonster.ShowAttack();
+            //Monster trollArcherMonster = trollArcher.NewMonster();
+            //trollArcherMonster.ShowAttack();
 
-            Monster trollWizardMonster = trollWizard.NewMonster();
-            trollWizardMonster.ShowAttack();
+            //Monster trollWizardMonster = trollWizard.NewMonster();
+            //trollWizardMonster.ShowAttack();
 
+            //int externalState = 22;
+            //FlyweightFactory flyweightFactory = new FlyweightFactory();
+            //Flyweight concreteFlyweight =  flyweightFactory.GetFlyweight("X");
+            //concreteFlyweight.Operation(--externalState);
+
+            //Flyweight fy = flyweightFactory.GetFlyweight("Y");
+            //fy.Operation(--externalState);
+
+            //Flyweight fz = flyweightFactory.GetFlyweight("Z");
+            //fz.Operation(--externalState);
+
+            //UnsharedConcreteFlyweight fu = new UnsharedConcreteFlyweight();
+
+            //fu.Operation(--externalState);
+
+            //string document = "AAZZBBZB";
+            //char[] chars = document.ToCharArray();
+            //CharacterFactory factory = new CharacterFactory();
+
+            //// extrinsic state
+            //int pointSize = 10;
+
+            //// For each character use a flyweight object
+            //foreach (char c in chars)
+            //{
+            //    pointSize++;
+            //    CharacterBase character = factory.GetCharacter(c);
+            //    character.Display(pointSize);
+            //}
+
+            //IBM imb = new IBM();
+            //imb.Attach(new ObserverOrange());
+            //imb.Attach(new ObserverApple());
+            //imb.name = "test ";
+            //imb.Notify();
+
+            //Debug.Log("rextest 分割线");
+            //imb.name = "anothor test";
+            //imb.Notify();
+
+            //AnimatorController animatorController = new AnimatorController();
+            //foreach (var layer in animatorController.layers)
+            //{
+            //    AnimatorStateMachine sm = layer.stateMachine;
+            //    foreach (var state in sm.states)
+            //    {
+            //       // state.state.name;
+            //    }
+            //}
+            //Animator aor = new Animator();
+            //for (int i = 0; i < amtor.layerCount; ++i)
+            //{
+            //    amtor.get
+            //}
         }
         if (GUI.Button(new Rect(1 * 100, 80, 100, 50), "dunkingstate" + (true ? "(√)" : "")))
         {

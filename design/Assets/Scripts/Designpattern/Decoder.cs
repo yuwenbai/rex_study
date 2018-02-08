@@ -22,7 +22,7 @@ public abstract class Decoder : phone
     public override void print()
     {
         Debug.Log("rextest decoder print");
-        if (this._phone)
+        if (this._phone != null)
         {
             this._phone.print();
         }

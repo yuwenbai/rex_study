@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class phone : MonoBehaviour {
+public abstract class phone  {
 
 	// Use this for initialization
 	void Start () {

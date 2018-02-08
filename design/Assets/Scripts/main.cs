@@ -47,8 +47,17 @@ public class utils
 
 public class main : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    private void Awake()
+    {
+        Debug.Log("rextest awake ");
+    }
+    private void OnEnable()
+    {
+        Debug.Log("rextest enable ");
+    }
+
+    // Use this for initialization
+    void Start () {
 
 
         Queue<int> aaa = new Queue<int>();
@@ -123,7 +132,8 @@ public class main : MonoBehaviour {
         //命令
         Receiver receiver = new Receiver();
         Commond commond = new ConcreteCommand(receiver);
-        Invoker i = new Invoker(commond);
+        Invoker i = new Invoker();
+        i.SetCommond(commond);
         i.ExecuteCommond();
 
 

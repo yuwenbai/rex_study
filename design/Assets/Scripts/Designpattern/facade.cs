@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class facade : MonoBehaviour {
+public class facade  {
 
     private course _course;
     private student _student;
