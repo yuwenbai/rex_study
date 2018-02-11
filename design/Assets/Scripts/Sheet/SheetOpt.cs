@@ -28,7 +28,7 @@ public class SheetOpt : MonoBehaviour {
     {
         //xml.Load(Application.dataPath + "/赛事后台需求_20170412_mjc.xlsx");
 
-        FileStream stream = File.Open(Application.dataPath + "/" + fileName, FileMode.Open, FileAccess.Read);
+        FileStream stream = File.Open(Application.streamingAssetsPath + "/" + fileName, FileMode.Open, FileAccess.Read);
         //IExcelDataReader excelReader = ExcelReaderFactory.CreateBinaryReader(stream);
         IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream);
         DataSet result = excelReader.AsDataSet();
