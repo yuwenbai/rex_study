@@ -45,6 +45,7 @@ Shader "Unlit/OutLine1"
 			v2f vert (appdata_base v)
 			{
 				v2f o;
+				UNITY_INITIALIZE_OUTPUT(v2f,o);
 				o.vertex = UnityObjectToClipPos(v.vertex);
 				o.uv = TRANSFORM_TEX(v.texcoord, _MainTex);
 				UNITY_TRANSFER_FOG(o,o.vertex);

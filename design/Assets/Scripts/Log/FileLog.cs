@@ -30,7 +30,7 @@ namespace Game
         {
             errorOutAssert = true;
             out_time = true;
-            flushLevel = eLogFlushLevel.eError;
+            flushLevel = eLogFlushLevel.eLog;
             var dir = System.IO.Path.GetDirectoryName(path);
             try
             {
@@ -44,7 +44,7 @@ namespace Game
             {
                 if (console)
                     Console.WriteLine(string.Format("start log error!msg:{0}", e));
-                writer = new System.IO.StreamWriter(path + System.DateTime.Now.ToString("yyyyMMdd HH_mm_ss") + ".log", app, System.Text.UTF8Encoding.UTF8);
+                writer = new System.IO.StreamWriter(path + System.DateTime.Now.ToString("yyyyMMdd HH") + ".log", app, System.Text.UTF8Encoding.UTF8);
             }
             Log("start log");
         }

@@ -2,11 +2,18 @@
 using UnityEngine;
 using ExcelDataReader;
 using System.Data;
+using System.Reflection;
+using EPPlusSamples;
+using System;
+
 public class SheetOpt : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
         ReadOneExcel("111.xlsx");
+        DirectoryInfo outputDir = new DirectoryInfo(@"E:\SampleApp");
+        if (!outputDir.Exists) throw new Exception("outputDir does not exist!");
+        SheetWrite.RunSample12("", outputDir);
     }
 	
 	// Update is called once per frame
@@ -38,26 +45,7 @@ public class SheetOpt : MonoBehaviour {
                 string nvalue = result.Tables[0].Rows[i][j].ToString();
                 Debug.Log(nvalue);
             }
-
-            //创建xml文档
-            //FileInfo newFile = new FileInfo(Application.dataPath + "/赛事后台需求_20170412_mjc.xlsx");
-
-            //using (ExcelPackage pck = new ExcelPackage(newFile))
-            //{
-
-            //}
-
-
-
-            //ExcelWorksheet sheet = new ExcelWorksheet();
-            //string filepath = Application.dataPath + "/StreamingAssets" + "/" + fileName;
-            //FileStream fs;
-            //using (fs = new FileStream(fileName, FileMode.Open, FileAccess.ReadWrite))
-            //{
-            //    XSSFWorkbook  book = new XSSFWorkbook(fs);
-            //    Debug.Log("rextest sheetName is " + book.GetSheetName(0));
-            //    fs.Close();
-            //}
         }
+        
     }
 }
