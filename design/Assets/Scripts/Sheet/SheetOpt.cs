@@ -11,9 +11,10 @@ public class SheetOpt : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         ReadOneExcel("111.xlsx");
+        
         DirectoryInfo outputDir = new DirectoryInfo(@"E:\SampleApp");
         if (!outputDir.Exists) throw new Exception("outputDir does not exist!");
-        SheetWrite.RunSample12("", outputDir);
+        SheetWrite.RunSample12("", outputDir, @"\sample12.xlsx");
     }
 	
 	// Update is called once per frame

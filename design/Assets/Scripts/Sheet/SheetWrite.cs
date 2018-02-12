@@ -67,7 +67,7 @@ namespace EPPlusSamples
                 }
             }
         }
-        public static string RunSample12(string sqlServerName, DirectoryInfo outputDir)
+        public static string RunSample12(string sqlServerName, DirectoryInfo outputDir,string fileName)
         {
             var list = new List<SalesDTO>();
             if (sqlServerName == "")
@@ -79,7 +79,7 @@ namespace EPPlusSamples
                 list = GetDataFromSQL(sqlServerName);
             }
 
-            string file = outputDir.FullName + @"\sample12.xlsx";
+            string file = outputDir.FullName + fileName;
             if (File.Exists(file)) File.Delete(file);
             FileInfo newFile = new FileInfo(file);
 

@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>user</Author>
+  <LastAuthor>user</LastAuthor>
+  <Created>2017-01-11T02:01:20Z</Created>
+  <LastSaved>2017-01-11T02:02:20Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7605</WindowHeight>
+  <WindowWidth>19395</WindowWidth>
+  <WindowTopX>600</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+<Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="_ * #,##0.00_ ;_ * \-#,##0.00_ ;_ * &quot;-&quot;??_ ;_ @_ "/>
+  </Style>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center" ss:WrapText="1" />
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="10" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="微软雅黑" x:CharSet="134" x:Family="Swiss" ss:Size="11"
+    ss:Color="#565656" ss:Bold="1"/>
+   <Interior ss:Color="#E7EFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="133.00" ss:ExpandedRowCount="133.00" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="123.75" ss:DefaultRowHeight="13.5">
+   <Row ss:Height="36">
+    
+<Cell ss:StyleID="s71"><Data ss:Type="String">项目编号&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">销售合同编号&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">客户全称&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">销售合同名称&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">销售代表1&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">销售代表2&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">统计部门1&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">统计部门2&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">采购合同编号&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">采购合同名称&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">供应商&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String"> 采购合同总额 &#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">采购合同签约日期&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String">采购合同统计日期&#160;</Data></Cell>
+<Cell ss:StyleID="s71"><Data ss:Type="String"> 签约公司 &#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201600894</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">云南南天电子信息产业股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">销售合同（建行2015年总推分数通项目华为网络产品-广东二级行）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800002</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890*云南南天*杭州川海*平板维修20180102</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">其他</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">775.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201600894</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">云南南天电子信息产业股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">销售合同（建行2015年总推分数通项目华为网络产品-广东二级行）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800003</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890*云南南天*青岛李沧景致*平板维修</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">其他</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">775.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170788-4</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700736</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中信科技发展有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">运营管理 4Q</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700625</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170788-4*中信科技*钽云*运营管理 4Q</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">1,776,677.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-29</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170788-3</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700733</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中信科技发展有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">运营管理项目三季度</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700627</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170788-3*中信科技*钽云*运营管理 3Q</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">2,461,239.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-29</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160978</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700811</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">bmc 软件</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700620</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160978*建总行*博思软件*BMC软件</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">博思软件(中国)有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">9,000,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">180020</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700815</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">计算机软件系统维护支持服务采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700621</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">180020*建总行*博思软件*BMC续保</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">博思软件(中国)有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">565,977.46</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170075-3</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700768</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国保险信息技术管理有限责任公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">资源池项目验收报告/项目任务书/工作量确认单（2017年7月1日-2017年9月30日）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800005</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170075-3*中国保信*钽云*技术服务外包 3Q</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">76,500.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-03</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170075-2</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700483</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国保险信息技术管理有限责任公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">资源池项目验收报告/项目任务书/工作量确认单（2017年4月1日-2017年6月30日）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800004</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170075-2*中国保信*钽云*技术服务外包 2Q</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">72,675.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-03</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">177036</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700643</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">2017年度总行基础设施资源池扩容所需产品代理和集成服务（包1）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700610</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">177036*建总行*博瑞顺诚*H3C设备</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京博瑞顺诚信息技术有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">13,249,404.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-26</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-03</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">176085</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700770</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">兴业银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">2017年度生产资源池设备及服务采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">严桑桑</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700612</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">176085*兴业银行*IBM*人天服务采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">国际商业机器(中国)有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">500,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-25</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-04</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170612</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700521</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">四川省农村信用社联合社</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">信息技术外包服务入围协议</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">李延</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800018</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170612*四川农信*钽云 技术服务外包</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">0.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-08</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-08</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">179026</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700718</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司长沙天心支行</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">湖南省公共资源交易中心药品（疫苗）集中采购支付结算平台</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">张明秀</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">武汉分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700559</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">179026*建行长沙天心支行*富通时代*华为设备采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">富通时代科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">291,834.84</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-08</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-08</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571-1</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700705</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">技术服务合作框架合同 2017年8-9月工作量确认单</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">屈鑫</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700589</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571-1*成都银行*钽云*技术服务外包 2017年8-9月工作量确认单</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">25,147.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-10</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160185</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201600626</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新华人寿保险股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新华人寿保险股份有限公司数据中心设备及PMO新核心硬件设备集中采购项目-新核心生产及灾备存储</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800021</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160185*新华人寿*国际商业机器*安装服务</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">国际商业机器(中国)有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">6,600.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-10</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700429</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">技术服务合作框架合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">屈鑫</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800028</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571*成都银行*成都骐骋 技术服务合作框架合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都骐骋信息技术有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">0.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700429</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">技术服务合作框架合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">屈鑫</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800027</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571*成都银行*上海睿民 技术服务合作框架合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海睿民互联网科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">0.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">176085</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700770</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">兴业银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">2017年度生产资源池设备及服务采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">严桑桑</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700624</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">176085*兴业银行*中北万兴*IBM设备采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京中北万兴国际贸易有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">14,730,879.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">175005</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700457</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">徽商银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新核心生产环境主机资源科技设备采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">荣齐齐</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">江苏高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800020</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">175005*徽商银行*中北万兴*设备采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京中北万兴国际贸易有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">1,860,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-09</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170336</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700781</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">建信财产保险有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">建信财产保险有限公司VMware系统</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700619</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170336*建信财险*佳杰科技*VMware软件</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">佳杰科技(上海)有限公司北京分公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">1,699,800.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-12-27</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-12</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">163013</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201800016</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">四川省农村信用社联合社</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">计算资源池建设第一批次-高性能数据库服务器及IB交换机 项目合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">黄朝晖</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800029</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">163013*四川农信*DELL*交换机采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">戴尔(中国)有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">1,980,689.96</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-11</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-12</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">175005</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700457</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">徽商银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新核心生产环境主机资源科技设备采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">荣齐齐</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">江苏高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201700505</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">175005*徽商银行*中北万兴*IBM PDU</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京中北万兴国际贸易有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">85,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2017-11-13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-15</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800042</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">180539*钽云*金融业务应用云化改造技术服务采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京高伟达钽云科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">4,950,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-19</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-19</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">180004</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201800015</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司甘肃省分行</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">兰州信用卡中心采购华为硬盘</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800030</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">180004*甘肃建行*富通时代*华为硬盘</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">富通时代科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">54,148.64</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-16</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-19</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">140121</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201800035</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京大唐高鸿数据网络技术有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新华人寿2014年视频会议系统建设项目</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">李一楠</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800043</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">140121*大唐高鸿*百川信通*维护服务</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京百川信通科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">175,000.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2014-08-28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-19</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571-1</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700705</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">技术服务合作框架合同 2017年8-9月工作量确认单</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">屈鑫</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800034</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170571-1*成都银行*成都骐骋*技术服务外包</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都骐骋信息技术有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">534,552.10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-19</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">176086</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700814</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">兴业银行股份有限公司信用卡中心</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">兴业银行信用卡中心SAS商业管理软件续约采购合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">严桑桑</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800013</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">176086*兴业银行*上海艾大*SAS软件采购</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海艾大软件有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">795,984.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-05</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-22</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160057</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201601177</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">对公存款查询组件建设项目采购订单</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">佟萌</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">沈碧玉</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800037</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160057*建总行（上开）*北京烁林 软件外包2017.4-5月</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京烁林软件服务有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">71,200.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-22</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170290</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700305</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">中国建设银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">企业现金管理全球拓展项目采购订单</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">佟萌</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">沈碧玉,戈锋</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800038</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170290*建总行（上开）*北京烁林 软件外包2017.6-8月</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京烁林软件服务有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">106,800.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-22</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">170424</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700680</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">建信人寿保险股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">运营流程改革二期-建信e保项目</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">赵恒菁</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">成都分公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800032</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170424*建信人寿*正岸网络*软件外包</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">正岸网络科技（上海）有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">206,880.51</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-16</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-22</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160437</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201800009</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海银行股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海银行 新票据系统项目 票据池二期项目 2017新票据系统项目技术开发合同</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">梁斐玮</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海高伟达</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800047</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160437*上海银行*上海睿民*软件外包</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">上海睿民互联网科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">3,753,600.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-25</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-26</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201700786</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">建信财产保险有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">2017年南湖云计算资源池及博瑞21层弱电机房建设所需硬件设备采购项目</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800036</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">170774*建信财险*中青旅*H3C网络</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">北京中青旅创格科技有限公司</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">197,755.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-31</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160185</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201600626</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新华人寿保险股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">新华人寿保险股份有限公司数据中心设备及PMO新核心硬件设备集中采购项目-新核心生产及灾备存储</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">尹昂</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">保险业务部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800060</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160185*新华人寿*京东线缆</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">其他</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">517.80</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-31</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-31</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+   <Row ss:Height="36">
+   	
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">S201600894</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">云南南天电子信息产业股份有限公司</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">销售合同（建行2015年总推分数通项目华为网络产品-广东二级行）</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">王强(0005396),刘仪</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">银行一部</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">B201800059</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">160890*云南南天*北京维基卓越*平板维修</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">其他</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="Number">775.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-31</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-01-31</Data></Cell>
+<Cell ss:StyleID="s75"><Data ss:Type="String">高伟达软件股份有限公司</Data></Cell>
+   </Row>                                                                                                              
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>-3</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1000" ss:ExpandedRowCount="1000" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="123.75" ss:DefaultRowHeight="13.5">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1000" ss:ExpandedRowCount="1000" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="123.75" ss:DefaultRowHeight="13.5">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
