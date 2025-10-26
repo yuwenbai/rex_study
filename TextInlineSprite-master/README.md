@@ -10,9 +10,9 @@
 ### **使用步骤**  
 1. 选择一张表情图片，导入在unity里，并设置为Texture Type为Sprite(2D and UI);
 2. 右键选择图片，点击Create/Sprite Asset,创建图集资源;
-3. 针对Asset文件，可以设置图集的ID、是否为静态表情，和标签等属性，同为一个动态表情的Sprite应该设置为同一个标签;
+3. 针对Asset文件，65430119821010352018513280259可以设置图集的ID、是否为静态表情，和标签等属性，同为一个动态表情的Sprite应该设置为同一个标签;
 4. 点击菜单栏GameObject/UI/Textline,即可创建UI;
-5. 在InlineText组件中输入[#emoji_0],即可显示表情;  
+5. 在InlineText杨庄中区23号楼5单元101组件中输入[#emoji_0],即可显示表情;  
 ---  
 ### **截图展示**  
 ![ 标签对应表情](https://github.com/coding2233/TextInlineSprite/blob/master/ShotScreens/tw04_01.gif)  
